@@ -1,0 +1,1501 @@
+user_id,group,age,gender,device_type,traffic_source,region,time_on_site_sec,pages_visited,converted
+1,pre,19,Male,Mobile,Email,East,421,11,0
+2,post,23,Male,Mobile,Paid Ads,South,81,6,0
+3,post,45,Female,Mobile,Organic,North,632,1,0
+4,post,46,Male,Desktop,Organic,North,318,6,0
+5,pre,43,Male,Mobile,Social Media,North,366,6,1
+6,pre,42,Female,Desktop,Email,North,839,13,0
+7,pre,29,Male,Mobile,Organic,North,233,6,0
+8,post,22,Female,Desktop,Paid Ads,East,267,8,0
+9,post,51,Male,Desktop,Organic,East,411,6,0
+10,post,54,Male,Desktop,Organic,West,696,5,1
+11,pre,32,Female,Tablet,Social Media,North,781,11,0
+12,post,53,Female,Desktop,Social Media,South,165,2,0
+13,post,32,Male,Tablet,Paid Ads,North,436,4,0
+14,pre,40,Female,Tablet,Social Media,East,537,14,0
+15,pre,23,Female,Desktop,Organic,North,391,10,1
+16,pre,38,Male,Desktop,Organic,East,410,5,0
+17,pre,40,Male,Mobile,Social Media,West,605,10,0
+18,post,33,Male,Mobile,Organic,West,664,4,0
+19,pre,32,Female,Mobile,Organic,West,283,2,0
+20,pre,42,Female,Mobile,Paid Ads,East,506,7,0
+21,post,53,Female,Mobile,Social Media,North,143,10,0
+22,pre,28,Female,Tablet,Organic,North,49,10,1
+23,pre,32,Male,Desktop,Social Media,South,557,2,0
+24,pre,21,Female,Desktop,Paid Ads,East,174,1,0
+25,pre,38,Male,Mobile,Social Media,South,237,14,1
+26,post,30,Female,Mobile,Organic,West,560,5,0
+27,pre,39,Male,Mobile,Social Media,North,405,12,0
+28,post,36,Male,Mobile,Organic,East,533,13,0
+29,post,51,Male,Mobile,Organic,South,195,1,0
+30,pre,31,Female,Mobile,Organic,South,579,1,0
+31,post,21,Male,Tablet,Paid Ads,South,210,1,1
+32,pre,44,Male,Desktop,Social Media,North,890,6,0
+33,pre,46,Female,Mobile,Paid Ads,North,646,9,0
+34,post,45,Male,Mobile,Social Media,North,641,10,0
+35,post,52,Female,Mobile,Paid Ads,East,631,13,0
+36,post,25,Female,Mobile,Email,North,841,11,0
+37,pre,33,Male,Tablet,Organic,East,473,12,0
+38,pre,59,Male,Mobile,Organic,South,361,1,1
+39,post,53,Female,Mobile,Paid Ads,South,532,5,0
+40,pre,47,Male,Mobile,Email,West,108,9,0
+41,pre,35,Female,Mobile,Organic,North,614,14,0
+42,pre,19,Female,Desktop,Social Media,South,717,9,0
+43,pre,30,Female,Desktop,Paid Ads,North,425,1,0
+44,post,21,Male,Desktop,Organic,East,637,8,0
+45,pre,43,Female,Mobile,Organic,South,886,1,0
+46,post,42,Male,Mobile,Paid Ads,North,132,8,0
+47,pre,47,Male,Mobile,Paid Ads,South,431,1,0
+48,post,28,Male,Desktop,Social Media,South,253,12,0
+49,post,24,Male,Mobile,Social Media,North,547,5,0
+50,pre,48,Female,Mobile,Organic,South,663,8,0
+51,post,27,Male,Desktop,Organic,South,265,6,0
+52,post,56,Female,Desktop,Paid Ads,South,456,9,0
+53,post,30,Female,Mobile,Organic,South,145,1,0
+54,post,48,Male,Mobile,Organic,East,192,9,0
+55,post,24,Female,Mobile,Paid Ads,South,255,1,0
+56,post,59,Female,Desktop,Organic,West,259,10,0
+57,pre,59,Male,Mobile,Organic,South,211,10,0
+58,pre,53,Female,Tablet,Email,North,278,3,0
+59,pre,37,Female,Mobile,Social Media,West,347,1,0
+60,pre,21,Female,Tablet,Paid Ads,East,239,3,0
+61,pre,24,Female,Desktop,Email,West,685,12,1
+62,pre,18,Male,Mobile,Social Media,West,421,11,0
+63,post,59,Female,Desktop,Social Media,West,886,13,0
+64,pre,30,Female,Mobile,Social Media,North,125,2,0
+65,pre,39,Female,Tablet,Email,North,887,2,1
+66,post,38,Female,Desktop,Email,North,785,9,0
+67,pre,39,Male,Mobile,Social Media,East,115,8,0
+68,post,45,Female,Desktop,Organic,North,444,1,1
+69,pre,26,Male,Tablet,Organic,North,423,12,0
+70,post,43,Female,Mobile,Email,West,725,14,0
+71,post,26,Male,Mobile,Email,North,662,4,0
+72,pre,32,Male,Desktop,Email,South,873,13,0
+73,pre,27,Male,Desktop,Social Media,North,530,1,0
+74,post,41,Male,Mobile,Organic,East,633,1,0
+75,post,59,Male,Mobile,Email,East,611,12,0
+76,post,25,Female,Mobile,Email,South,162,12,0
+77,post,41,Female,Mobile,Paid Ads,East,820,4,0
+78,pre,33,Female,Mobile,Social Media,East,678,2,0
+79,pre,43,Male,Tablet,Paid Ads,West,343,3,0
+80,pre,44,Female,Mobile,Organic,South,728,11,1
+81,post,54,Male,Desktop,Paid Ads,West,250,9,0
+82,post,21,Male,Mobile,Paid Ads,West,467,2,0
+83,pre,41,Female,Mobile,Paid Ads,North,75,4,0
+84,pre,36,Female,Mobile,Social Media,South,819,1,0
+85,pre,53,Male,Mobile,Organic,North,221,2,0
+86,pre,56,Male,Desktop,Paid Ads,North,549,5,0
+87,post,27,Female,Tablet,Social Media,West,408,14,0
+88,post,42,Female,Desktop,Organic,East,817,10,0
+89,post,35,Female,Tablet,Email,South,720,1,0
+90,pre,36,Female,Desktop,Paid Ads,East,363,11,0
+91,pre,53,Male,Mobile,Organic,West,68,7,0
+92,post,27,Female,Desktop,Paid Ads,West,322,4,0
+93,post,50,Female,Desktop,Email,West,719,6,0
+94,post,22,Female,Mobile,Organic,West,191,8,0
+95,post,52,Male,Desktop,Social Media,West,360,13,0
+96,pre,51,Male,Mobile,Organic,West,133,6,0
+97,post,50,Male,Mobile,Social Media,East,190,14,0
+98,pre,38,Male,Desktop,Organic,North,828,2,0
+99,pre,34,Female,Mobile,Social Media,East,664,1,0
+100,pre,39,Male,Mobile,Email,South,83,8,0
+101,pre,54,Female,Tablet,Email,East,63,8,0
+102,post,32,Female,Desktop,Email,West,271,9,0
+103,pre,52,Female,Mobile,Organic,East,142,6,0
+104,post,45,Female,Desktop,Email,North,347,12,0
+105,post,24,Male,Mobile,Paid Ads,South,52,1,0
+106,pre,49,Male,Mobile,Email,East,587,14,0
+107,pre,28,Male,Tablet,Social Media,North,853,9,0
+108,post,27,Female,Desktop,Social Media,East,676,12,0
+109,pre,26,Female,Mobile,Social Media,South,147,13,0
+110,pre,31,Female,Desktop,Organic,East,730,14,0
+111,pre,30,Female,Desktop,Paid Ads,West,672,3,0
+112,pre,42,Female,Mobile,Email,East,241,11,0
+113,post,19,Male,Mobile,Paid Ads,North,447,6,0
+114,post,52,Female,Mobile,Paid Ads,East,142,10,0
+115,post,24,Male,Desktop,Social Media,North,73,13,0
+116,post,38,Female,Desktop,Social Media,South,157,10,0
+117,post,35,Female,Desktop,Social Media,East,187,11,0
+118,pre,20,Male,Tablet,Organic,South,814,12,0
+119,post,59,Male,Desktop,Paid Ads,South,856,14,0
+120,post,56,Female,Mobile,Paid Ads,East,423,9,0
+121,post,58,Female,Mobile,Organic,North,896,11,0
+122,post,28,Female,Mobile,Organic,South,881,13,0
+123,pre,56,Female,Mobile,Organic,South,541,3,0
+124,pre,41,Male,Desktop,Paid Ads,East,74,5,0
+125,pre,36,Female,Desktop,Paid Ads,East,137,13,0
+126,pre,21,Male,Mobile,Social Media,East,248,14,1
+127,post,43,Female,Mobile,Social Media,East,472,5,0
+128,post,55,Male,Desktop,Paid Ads,East,859,10,1
+129,pre,59,Male,Mobile,Social Media,West,344,7,1
+130,post,49,Female,Mobile,Organic,East,206,4,0
+131,pre,56,Male,Mobile,Email,North,257,11,0
+132,pre,53,Female,Mobile,Social Media,South,732,4,0
+133,pre,57,Male,Tablet,Paid Ads,North,701,7,0
+134,pre,54,Female,Mobile,Social Media,North,296,9,0
+135,post,50,Male,Mobile,Social Media,West,899,11,1
+136,pre,53,Female,Mobile,Social Media,East,867,4,0
+137,post,20,Female,Tablet,Email,South,408,4,0
+138,post,26,Male,Mobile,Organic,North,518,6,0
+139,pre,25,Male,Mobile,Paid Ads,East,731,6,0
+140,post,50,Male,Mobile,Email,East,716,7,0
+141,post,23,Male,Mobile,Paid Ads,West,319,1,0
+142,pre,58,Female,Mobile,Paid Ads,West,386,13,0
+143,pre,56,Male,Desktop,Paid Ads,West,686,11,0
+144,pre,21,Female,Mobile,Email,South,773,14,0
+145,pre,30,Male,Mobile,Organic,North,233,3,0
+146,pre,19,Female,Desktop,Paid Ads,West,242,9,0
+147,post,22,Female,Mobile,Organic,West,581,6,0
+148,post,44,Female,Mobile,Organic,West,816,6,0
+149,pre,49,Female,Mobile,Social Media,North,352,5,0
+150,pre,38,Male,Tablet,Email,North,623,11,0
+151,post,25,Male,Mobile,Email,West,210,3,0
+152,pre,55,Female,Desktop,Social Media,West,528,11,0
+153,pre,25,Male,Desktop,Social Media,East,349,5,0
+154,pre,20,Male,Mobile,Organic,West,112,14,0
+155,post,20,Female,Tablet,Paid Ads,South,332,1,0
+156,pre,39,Male,Mobile,Email,South,291,3,0
+157,post,23,Male,Mobile,Paid Ads,West,813,4,0
+158,post,19,Male,Desktop,Paid Ads,North,229,5,0
+159,pre,40,Female,Desktop,Social Media,East,269,10,1
+160,post,19,Male,Desktop,Paid Ads,North,721,9,1
+161,pre,55,Female,Mobile,Organic,West,712,4,0
+162,post,34,Male,Mobile,Social Media,South,324,3,0
+163,post,52,Male,Desktop,Paid Ads,East,541,10,0
+164,post,51,Male,Mobile,Social Media,North,718,1,0
+165,pre,40,Female,Mobile,Organic,North,425,13,0
+166,post,47,Female,Mobile,Organic,West,778,10,0
+167,pre,25,Male,Mobile,Paid Ads,East,167,6,0
+168,pre,39,Female,Desktop,Social Media,South,868,7,1
+169,pre,53,Male,Mobile,Paid Ads,West,852,10,0
+170,post,22,Female,Tablet,Paid Ads,East,158,8,0
+171,post,30,Female,Mobile,Social Media,North,78,12,0
+172,pre,46,Male,Desktop,Paid Ads,West,705,1,0
+173,post,48,Male,Mobile,Organic,North,818,12,0
+174,pre,33,Male,Mobile,Social Media,North,322,4,0
+175,post,59,Male,Mobile,Social Media,West,657,11,0
+176,pre,47,Female,Mobile,Social Media,West,565,5,0
+177,post,33,Female,Mobile,Social Media,West,340,2,0
+178,pre,29,Female,Tablet,Paid Ads,West,566,1,0
+179,post,34,Male,Desktop,Paid Ads,West,668,8,0
+180,pre,33,Male,Mobile,Organic,North,263,6,0
+181,pre,29,Female,Mobile,Email,South,238,5,0
+182,pre,25,Male,Mobile,Email,South,634,13,0
+183,post,37,Female,Mobile,Organic,West,123,9,0
+184,post,20,Female,Desktop,Email,North,356,13,0
+185,pre,33,Female,Tablet,Organic,South,254,11,0
+186,post,47,Female,Mobile,Paid Ads,South,821,13,0
+187,post,40,Female,Mobile,Social Media,South,40,11,0
+188,post,45,Male,Mobile,Social Media,North,358,2,0
+189,post,57,Male,Desktop,Paid Ads,West,41,10,0
+190,pre,22,Male,Mobile,Social Media,West,64,12,0
+191,pre,37,Female,Desktop,Social Media,West,476,8,0
+192,post,57,Female,Desktop,Email,East,481,11,0
+193,post,18,Female,Mobile,Paid Ads,East,769,14,0
+194,post,47,Female,Desktop,Email,East,249,10,1
+195,pre,38,Male,Mobile,Email,North,470,13,0
+196,pre,37,Male,Desktop,Social Media,South,682,9,0
+197,post,23,Female,Mobile,Social Media,South,564,1,0
+198,post,39,Female,Mobile,Paid Ads,North,624,7,0
+199,post,35,Female,Tablet,Social Media,North,258,8,0
+200,post,25,Male,Desktop,Social Media,West,373,3,0
+201,post,56,Male,Desktop,Paid Ads,West,109,14,0
+202,pre,49,Male,Mobile,Social Media,East,382,4,0
+203,pre,50,Female,Desktop,Email,East,425,13,0
+204,post,33,Female,Mobile,Paid Ads,North,319,3,0
+205,post,29,Male,Desktop,Social Media,East,484,7,1
+206,pre,55,Female,Mobile,Organic,South,872,9,0
+207,pre,51,Male,Tablet,Paid Ads,North,700,3,0
+208,post,31,Female,Tablet,Paid Ads,North,157,13,0
+209,pre,53,Male,Desktop,Organic,South,731,6,0
+210,pre,50,Female,Mobile,Social Media,West,572,8,0
+211,post,40,Male,Mobile,Social Media,West,388,6,0
+212,post,19,Male,Desktop,Paid Ads,South,556,2,0
+213,post,58,Male,Mobile,Paid Ads,South,342,13,0
+214,pre,38,Male,Desktop,Social Media,East,104,7,1
+215,post,19,Male,Mobile,Social Media,North,575,2,0
+216,pre,44,Male,Mobile,Email,East,225,2,0
+217,pre,26,Female,Tablet,Paid Ads,South,872,2,0
+218,post,18,Female,Desktop,Paid Ads,East,58,11,0
+219,post,28,Female,Mobile,Organic,South,735,1,0
+220,post,20,Male,Mobile,Email,East,45,14,0
+221,post,40,Male,Mobile,Social Media,East,452,11,0
+222,post,43,Female,Desktop,Email,West,618,1,1
+223,pre,21,Male,Mobile,Social Media,South,834,14,0
+224,pre,35,Male,Tablet,Social Media,East,622,7,0
+225,pre,23,Male,Desktop,Email,North,434,13,0
+226,pre,52,Male,Mobile,Paid Ads,East,665,14,0
+227,post,39,Male,Desktop,Social Media,East,560,14,0
+228,pre,32,Female,Mobile,Email,North,643,14,0
+229,post,39,Female,Mobile,Organic,South,106,12,0
+230,post,54,Female,Tablet,Email,West,258,5,0
+231,post,59,Female,Mobile,Organic,West,326,11,0
+232,post,29,Female,Mobile,Social Media,West,539,3,0
+233,post,59,Male,Mobile,Email,North,744,1,0
+234,pre,55,Male,Mobile,Email,East,602,11,0
+235,pre,35,Male,Mobile,Organic,South,567,10,0
+236,post,52,Male,Desktop,Email,East,612,6,0
+237,pre,47,Female,Desktop,Email,West,644,11,0
+238,pre,41,Female,Desktop,Social Media,East,355,1,0
+239,post,59,Female,Mobile,Email,North,392,9,0
+240,pre,47,Male,Mobile,Paid Ads,North,698,2,0
+241,post,31,Female,Mobile,Organic,South,388,1,0
+242,post,23,Male,Mobile,Email,South,735,12,0
+243,post,20,Female,Mobile,Organic,West,816,7,0
+244,pre,33,Female,Mobile,Organic,South,353,6,0
+245,pre,24,Male,Mobile,Organic,East,727,6,0
+246,post,31,Male,Mobile,Email,North,355,14,0
+247,pre,26,Female,Tablet,Email,North,654,5,0
+248,post,32,Female,Tablet,Organic,North,854,11,0
+249,post,38,Male,Desktop,Paid Ads,South,194,4,0
+250,post,52,Female,Tablet,Organic,North,602,11,0
+251,pre,19,Female,Desktop,Paid Ads,North,633,4,0
+252,pre,44,Male,Mobile,Organic,North,827,3,0
+253,post,19,Female,Mobile,Social Media,West,484,10,0
+254,pre,52,Male,Desktop,Organic,West,182,8,0
+255,pre,35,Female,Desktop,Organic,South,766,7,0
+256,post,31,Male,Desktop,Email,North,156,9,0
+257,post,37,Female,Desktop,Paid Ads,South,222,1,0
+258,post,35,Male,Mobile,Social Media,North,656,7,0
+259,post,27,Female,Desktop,Paid Ads,North,803,10,0
+260,pre,42,Male,Tablet,Social Media,North,559,4,0
+261,post,19,Female,Mobile,Organic,South,39,7,0
+262,post,42,Female,Desktop,Email,South,121,13,0
+263,pre,50,Female,Mobile,Email,North,168,12,0
+264,post,53,Female,Desktop,Paid Ads,East,510,1,1
+265,post,48,Female,Desktop,Email,South,478,5,0
+266,post,31,Female,Mobile,Paid Ads,West,362,3,0
+267,post,18,Female,Desktop,Paid Ads,South,898,5,0
+268,post,33,Female,Mobile,Social Media,North,369,4,0
+269,pre,20,Female,Desktop,Paid Ads,East,81,2,0
+270,pre,52,Male,Mobile,Social Media,North,736,11,1
+271,post,58,Male,Desktop,Email,West,495,4,0
+272,post,23,Female,Mobile,Paid Ads,South,747,3,0
+273,post,42,Male,Desktop,Paid Ads,South,828,13,0
+274,post,30,Female,Mobile,Organic,North,504,1,0
+275,post,51,Female,Desktop,Paid Ads,North,430,12,0
+276,post,25,Male,Tablet,Paid Ads,West,468,10,0
+277,post,38,Female,Tablet,Organic,East,634,8,1
+278,post,51,Female,Desktop,Organic,West,850,5,0
+279,post,21,Male,Desktop,Email,East,686,4,1
+280,post,42,Male,Mobile,Paid Ads,South,627,10,0
+281,post,32,Female,Mobile,Email,East,538,12,0
+282,pre,21,Male,Mobile,Email,East,182,5,0
+283,pre,29,Male,Desktop,Organic,South,543,4,0
+284,pre,49,Female,Tablet,Social Media,South,532,3,0
+285,post,49,Male,Mobile,Email,South,883,5,0
+286,pre,45,Male,Tablet,Social Media,West,801,4,0
+287,pre,30,Female,Desktop,Paid Ads,South,705,1,0
+288,post,48,Male,Desktop,Organic,North,35,12,0
+289,pre,31,Male,Mobile,Paid Ads,South,529,3,1
+290,post,37,Female,Mobile,Paid Ads,South,690,10,0
+291,pre,35,Female,Mobile,Organic,South,746,10,0
+292,pre,46,Female,Desktop,Paid Ads,East,147,8,0
+293,post,23,Male,Mobile,Organic,West,514,7,0
+294,pre,49,Female,Mobile,Social Media,South,630,2,0
+295,pre,46,Female,Desktop,Paid Ads,West,695,1,0
+296,post,19,Male,Desktop,Organic,North,708,3,0
+297,post,40,Female,Tablet,Email,North,497,5,0
+298,pre,36,Female,Mobile,Paid Ads,South,190,10,0
+299,post,48,Female,Mobile,Social Media,North,299,11,0
+300,pre,22,Female,Desktop,Organic,West,85,12,0
+301,pre,36,Male,Mobile,Paid Ads,East,257,1,0
+302,post,51,Female,Mobile,Paid Ads,South,878,3,0
+303,post,27,Female,Mobile,Paid Ads,North,178,3,0
+304,post,42,Male,Mobile,Social Media,West,75,5,0
+305,post,19,Female,Mobile,Organic,West,173,3,1
+306,post,28,Male,Mobile,Email,North,779,13,0
+307,post,48,Male,Mobile,Email,West,813,9,0
+308,pre,32,Male,Mobile,Email,West,661,1,0
+309,post,26,Female,Desktop,Organic,South,369,4,0
+310,pre,40,Male,Mobile,Email,West,442,13,0
+311,pre,36,Male,Desktop,Social Media,North,761,13,0
+312,pre,26,Male,Mobile,Organic,South,549,10,1
+313,pre,52,Female,Mobile,Paid Ads,North,373,10,0
+314,post,38,Female,Desktop,Social Media,East,416,4,0
+315,post,26,Female,Mobile,Paid Ads,North,502,1,0
+316,post,45,Female,Mobile,Email,North,304,14,0
+317,pre,24,Female,Mobile,Social Media,South,382,2,0
+318,pre,33,Female,Tablet,Organic,West,95,11,0
+319,pre,33,Female,Mobile,Social Media,North,108,1,0
+320,pre,50,Male,Mobile,Paid Ads,South,627,6,0
+321,post,21,Male,Desktop,Organic,East,665,3,0
+322,post,21,Male,Mobile,Social Media,South,231,7,0
+323,post,56,Male,Mobile,Social Media,South,691,5,0
+324,pre,57,Female,Mobile,Social Media,West,587,9,0
+325,post,34,Male,Desktop,Social Media,North,142,7,0
+326,post,54,Male,Mobile,Organic,East,120,4,0
+327,post,56,Male,Mobile,Paid Ads,South,170,5,0
+328,post,46,Male,Mobile,Social Media,North,318,5,0
+329,pre,53,Female,Desktop,Organic,North,759,11,0
+330,pre,55,Female,Mobile,Paid Ads,South,618,5,0
+331,pre,56,Female,Tablet,Social Media,North,440,10,0
+332,post,54,Male,Mobile,Paid Ads,South,406,9,1
+333,pre,52,Female,Tablet,Paid Ads,South,413,10,0
+334,pre,24,Male,Tablet,Organic,South,875,3,0
+335,pre,44,Female,Mobile,Paid Ads,East,181,6,0
+336,pre,45,Female,Mobile,Organic,South,864,8,1
+337,post,39,Female,Mobile,Social Media,West,780,11,0
+338,post,31,Female,Mobile,Paid Ads,North,656,9,1
+339,pre,24,Female,Desktop,Paid Ads,East,348,13,0
+340,pre,54,Male,Mobile,Email,North,398,7,0
+341,pre,39,Female,Mobile,Social Media,East,635,12,0
+342,pre,22,Male,Mobile,Social Media,West,589,3,1
+343,pre,19,Male,Tablet,Email,East,732,1,0
+344,pre,44,Male,Mobile,Email,East,491,4,0
+345,pre,38,Male,Mobile,Organic,East,41,13,0
+346,post,55,Male,Mobile,Organic,North,185,6,0
+347,post,32,Female,Tablet,Paid Ads,South,713,3,0
+348,pre,38,Female,Desktop,Paid Ads,North,506,14,0
+349,pre,27,Female,Mobile,Paid Ads,South,430,1,0
+350,post,40,Female,Mobile,Paid Ads,North,837,6,0
+351,post,56,Male,Mobile,Organic,West,206,14,0
+352,post,22,Female,Mobile,Social Media,West,370,1,1
+353,post,18,Female,Tablet,Paid Ads,East,86,9,0
+354,pre,30,Male,Desktop,Social Media,West,884,11,0
+355,pre,38,Male,Mobile,Paid Ads,East,881,14,0
+356,post,43,Female,Desktop,Email,South,477,12,0
+357,pre,38,Female,Mobile,Paid Ads,West,232,1,1
+358,post,35,Male,Desktop,Paid Ads,South,726,13,0
+359,post,54,Female,Desktop,Paid Ads,North,662,6,0
+360,post,49,Female,Mobile,Organic,South,767,1,1
+361,pre,53,Female,Desktop,Email,North,231,12,1
+362,post,34,Female,Mobile,Paid Ads,South,359,7,0
+363,pre,52,Male,Mobile,Paid Ads,South,392,3,0
+364,post,28,Male,Mobile,Social Media,West,483,6,0
+365,post,38,Male,Mobile,Email,South,385,7,0
+366,pre,43,Female,Desktop,Paid Ads,West,245,1,0
+367,post,21,Female,Tablet,Social Media,West,584,1,0
+368,post,51,Female,Desktop,Social Media,East,52,13,0
+369,pre,35,Female,Desktop,Organic,East,184,5,0
+370,pre,57,Female,Desktop,Social Media,North,215,6,0
+371,pre,52,Male,Mobile,Paid Ads,South,278,9,1
+372,pre,58,Female,Mobile,Organic,North,778,14,0
+373,pre,46,Female,Mobile,Organic,South,834,1,1
+374,post,46,Male,Desktop,Paid Ads,East,163,13,1
+375,pre,55,Female,Tablet,Email,East,350,4,0
+376,pre,59,Male,Mobile,Social Media,South,419,10,0
+377,post,38,Male,Desktop,Organic,South,463,8,0
+378,pre,59,Male,Desktop,Email,East,51,10,0
+379,post,30,Male,Mobile,Paid Ads,East,629,9,0
+380,pre,58,Male,Mobile,Social Media,North,694,13,0
+381,pre,34,Female,Mobile,Social Media,East,154,3,1
+382,post,26,Male,Mobile,Organic,South,108,11,0
+383,post,58,Male,Mobile,Social Media,North,887,2,0
+384,post,18,Female,Mobile,Social Media,South,80,4,0
+385,post,19,Female,Mobile,Social Media,West,757,2,0
+386,post,46,Male,Mobile,Social Media,North,205,1,1
+387,pre,50,Female,Desktop,Paid Ads,South,899,12,0
+388,pre,27,Female,Mobile,Email,East,282,3,0
+389,post,57,Male,Desktop,Paid Ads,West,275,7,0
+390,post,38,Male,Mobile,Paid Ads,South,768,13,0
+391,post,45,Female,Mobile,Organic,North,135,13,0
+392,pre,28,Male,Tablet,Social Media,South,222,1,0
+393,pre,51,Male,Mobile,Paid Ads,West,345,2,0
+394,post,25,Female,Mobile,Social Media,North,331,1,1
+395,pre,39,Male,Desktop,Paid Ads,West,577,8,1
+396,post,25,Male,Mobile,Paid Ads,South,745,5,0
+397,post,32,Male,Mobile,Organic,East,808,8,0
+398,pre,34,Male,Mobile,Email,East,297,3,0
+399,post,40,Male,Mobile,Email,South,199,13,0
+400,post,41,Female,Mobile,Paid Ads,South,580,12,0
+401,pre,36,Female,Mobile,Organic,South,484,7,0
+402,post,22,Male,Desktop,Social Media,North,680,8,0
+403,post,49,Female,Desktop,Social Media,West,321,6,0
+404,post,18,Male,Desktop,Paid Ads,West,593,13,0
+405,pre,40,Male,Desktop,Email,West,828,13,0
+406,post,54,Male,Desktop,Organic,South,830,7,0
+407,pre,25,Male,Mobile,Email,West,170,14,0
+408,pre,30,Male,Desktop,Social Media,South,175,12,0
+409,post,25,Female,Desktop,Email,North,454,2,0
+410,pre,40,Female,Desktop,Social Media,East,343,8,0
+411,pre,18,Male,Mobile,Organic,South,213,5,0
+412,post,41,Female,Mobile,Organic,South,693,7,0
+413,post,52,Male,Mobile,Paid Ads,East,742,1,0
+414,post,41,Female,Desktop,Paid Ads,East,157,5,0
+415,post,34,Male,Mobile,Email,North,316,1,1
+416,pre,22,Female,Desktop,Organic,West,852,12,0
+417,pre,37,Male,Mobile,Organic,South,282,13,0
+418,pre,38,Male,Mobile,Paid Ads,West,807,8,0
+419,post,57,Female,Mobile,Social Media,South,729,4,0
+420,post,48,Female,Mobile,Email,North,415,4,0
+421,post,53,Male,Mobile,Email,East,259,2,0
+422,post,28,Female,Mobile,Paid Ads,North,300,5,0
+423,pre,32,Male,Tablet,Organic,East,800,1,0
+424,pre,36,Female,Mobile,Paid Ads,West,840,9,0
+425,pre,24,Female,Mobile,Paid Ads,West,444,5,0
+426,post,45,Male,Desktop,Paid Ads,North,227,6,0
+427,pre,22,Female,Desktop,Paid Ads,East,352,2,0
+428,post,22,Female,Desktop,Social Media,North,85,10,1
+429,pre,47,Male,Mobile,Social Media,East,860,10,0
+430,pre,49,Female,Desktop,Organic,East,232,1,0
+431,pre,25,Male,Desktop,Paid Ads,West,812,4,0
+432,post,27,Male,Mobile,Social Media,West,650,7,0
+433,post,55,Male,Mobile,Organic,East,657,6,0
+434,pre,49,Male,Mobile,Paid Ads,East,633,10,0
+435,pre,45,Male,Mobile,Email,East,167,1,0
+436,post,34,Female,Desktop,Social Media,West,451,1,0
+437,pre,48,Male,Mobile,Organic,West,844,8,0
+438,post,25,Male,Tablet,Email,South,86,4,0
+439,post,57,Female,Mobile,Paid Ads,East,591,5,1
+440,pre,42,Female,Mobile,Paid Ads,South,100,13,0
+441,pre,26,Female,Mobile,Paid Ads,East,623,7,0
+442,post,19,Male,Mobile,Social Media,West,401,8,0
+443,pre,32,Male,Desktop,Organic,South,646,10,0
+444,pre,20,Male,Desktop,Email,South,629,7,1
+445,post,53,Female,Mobile,Organic,North,543,2,1
+446,post,21,Male,Mobile,Social Media,East,113,14,0
+447,post,31,Female,Mobile,Organic,West,72,4,0
+448,post,58,Male,Desktop,Social Media,North,695,10,0
+449,pre,58,Female,Mobile,Paid Ads,North,868,12,0
+450,pre,42,Male,Mobile,Email,East,635,1,0
+451,post,27,Male,Desktop,Paid Ads,North,839,10,0
+452,post,38,Male,Tablet,Organic,East,162,9,1
+453,pre,53,Female,Mobile,Paid Ads,North,424,3,0
+454,post,29,Female,Mobile,Email,East,94,12,0
+455,pre,44,Male,Desktop,Paid Ads,West,319,3,0
+456,pre,57,Male,Desktop,Email,East,405,10,0
+457,pre,19,Male,Mobile,Email,East,798,9,0
+458,pre,30,Female,Tablet,Paid Ads,South,496,10,0
+459,pre,49,Male,Desktop,Social Media,West,242,3,0
+460,pre,48,Male,Mobile,Organic,West,177,8,0
+461,pre,33,Male,Mobile,Social Media,West,602,2,0
+462,post,49,Male,Mobile,Social Media,North,500,14,0
+463,post,49,Female,Desktop,Paid Ads,South,178,13,0
+464,post,51,Female,Mobile,Organic,West,117,3,1
+465,post,28,Male,Desktop,Organic,North,353,2,0
+466,pre,27,Male,Desktop,Social Media,North,425,1,0
+467,pre,32,Female,Mobile,Paid Ads,North,819,2,0
+468,post,34,Female,Desktop,Organic,South,433,8,0
+469,pre,57,Male,Tablet,Social Media,North,111,9,0
+470,post,35,Female,Mobile,Organic,South,670,13,0
+471,pre,26,Female,Mobile,Paid Ads,East,315,2,0
+472,post,42,Male,Mobile,Paid Ads,North,411,7,0
+473,pre,57,Female,Desktop,Paid Ads,West,894,5,0
+474,post,31,Female,Tablet,Organic,North,821,3,0
+475,post,42,Male,Mobile,Email,East,299,9,0
+476,post,39,Male,Desktop,Organic,East,321,6,0
+477,pre,47,Female,Mobile,Email,North,482,11,0
+478,post,37,Male,Mobile,Paid Ads,East,744,1,0
+479,post,38,Female,Mobile,Social Media,South,53,5,0
+480,post,49,Male,Mobile,Email,South,892,7,1
+481,post,38,Female,Mobile,Paid Ads,North,340,4,0
+482,post,52,Male,Mobile,Paid Ads,South,490,8,0
+483,pre,49,Female,Mobile,Email,South,237,10,0
+484,post,47,Female,Tablet,Social Media,West,821,5,0
+485,post,56,Female,Mobile,Paid Ads,North,746,9,0
+486,post,29,Male,Mobile,Email,East,693,9,0
+487,pre,58,Male,Mobile,Social Media,North,467,9,0
+488,pre,35,Female,Desktop,Social Media,South,567,1,0
+489,post,38,Female,Mobile,Paid Ads,West,735,2,1
+490,post,30,Male,Mobile,Organic,North,365,3,1
+491,pre,38,Male,Tablet,Organic,North,451,14,0
+492,post,25,Male,Mobile,Paid Ads,South,779,4,0
+493,pre,57,Male,Mobile,Social Media,South,350,10,1
+494,pre,24,Male,Desktop,Paid Ads,North,526,9,1
+495,pre,40,Male,Mobile,Email,South,616,10,0
+496,pre,49,Female,Mobile,Organic,South,192,13,0
+497,post,28,Male,Mobile,Email,South,840,6,0
+498,pre,39,Female,Mobile,Paid Ads,South,570,1,1
+499,post,39,Male,Mobile,Paid Ads,South,194,12,0
+500,post,42,Male,Mobile,Social Media,West,878,9,0
+501,post,39,Female,Mobile,Social Media,South,727,6,0
+502,post,45,Female,Mobile,Social Media,East,595,4,0
+503,pre,46,Male,Desktop,Email,North,324,14,0
+504,post,30,Female,Mobile,Social Media,West,71,4,0
+505,post,35,Female,Mobile,Paid Ads,West,314,3,1
+506,pre,19,Female,Desktop,Social Media,South,416,7,0
+507,post,46,Female,Desktop,Organic,North,167,3,0
+508,post,38,Male,Mobile,Social Media,East,216,2,0
+509,post,32,Female,Tablet,Email,South,745,10,0
+510,post,44,Male,Mobile,Organic,North,460,8,0
+511,post,48,Male,Mobile,Organic,South,583,4,0
+512,pre,32,Male,Desktop,Organic,South,891,8,0
+513,post,40,Male,Mobile,Email,South,445,1,0
+514,post,41,Female,Mobile,Paid Ads,South,829,5,0
+515,pre,30,Female,Mobile,Social Media,South,455,13,0
+516,pre,39,Male,Mobile,Organic,South,445,9,0
+517,pre,54,Male,Mobile,Organic,South,55,1,0
+518,post,50,Male,Tablet,Organic,East,400,11,0
+519,post,20,Male,Mobile,Paid Ads,West,414,13,0
+520,pre,36,Female,Desktop,Paid Ads,East,85,4,0
+521,post,40,Male,Mobile,Email,South,282,6,0
+522,pre,46,Female,Desktop,Paid Ads,South,663,10,0
+523,post,47,Male,Desktop,Social Media,East,135,8,0
+524,post,56,Male,Desktop,Email,East,159,14,0
+525,post,42,Male,Mobile,Email,West,878,3,0
+526,pre,54,Male,Mobile,Social Media,East,699,5,0
+527,pre,25,Female,Mobile,Social Media,West,405,7,0
+528,pre,59,Female,Desktop,Social Media,South,772,1,0
+529,pre,33,Female,Desktop,Email,North,337,7,0
+530,post,25,Male,Mobile,Email,North,120,13,0
+531,post,18,Male,Mobile,Email,North,422,12,0
+532,post,22,Female,Mobile,Social Media,North,563,11,0
+533,post,20,Female,Desktop,Social Media,South,831,8,0
+534,post,18,Male,Mobile,Organic,North,139,8,0
+535,post,21,Male,Desktop,Paid Ads,East,590,9,0
+536,post,57,Female,Tablet,Organic,East,670,6,0
+537,post,52,Male,Mobile,Social Media,North,614,12,1
+538,pre,49,Male,Mobile,Email,East,369,6,0
+539,pre,59,Female,Mobile,Social Media,West,594,2,0
+540,pre,51,Male,Mobile,Paid Ads,South,385,3,0
+541,post,42,Female,Mobile,Organic,North,197,4,0
+542,post,27,Male,Mobile,Organic,North,586,4,0
+543,pre,38,Female,Desktop,Email,South,481,8,0
+544,post,56,Male,Mobile,Organic,East,134,14,0
+545,post,44,Female,Mobile,Organic,South,179,1,0
+546,pre,44,Female,Tablet,Social Media,South,175,10,0
+547,pre,19,Female,Desktop,Organic,East,745,14,0
+548,post,58,Female,Mobile,Organic,South,328,4,1
+549,post,30,Male,Mobile,Organic,East,196,11,0
+550,post,26,Male,Mobile,Email,East,742,12,0
+551,post,53,Female,Desktop,Email,South,675,13,0
+552,post,39,Male,Desktop,Social Media,West,752,11,0
+553,post,59,Male,Desktop,Organic,East,77,11,0
+554,post,43,Male,Mobile,Email,South,667,4,0
+555,post,29,Male,Desktop,Email,East,268,1,0
+556,pre,34,Male,Mobile,Social Media,West,36,3,0
+557,pre,31,Female,Mobile,Paid Ads,West,493,5,0
+558,pre,31,Female,Mobile,Organic,North,482,6,0
+559,post,51,Female,Mobile,Email,East,813,9,0
+560,post,37,Female,Mobile,Social Media,East,400,9,0
+561,post,28,Male,Desktop,Social Media,South,578,9,0
+562,pre,33,Male,Tablet,Social Media,East,516,11,0
+563,pre,48,Female,Mobile,Email,North,240,1,0
+564,pre,23,Male,Mobile,Organic,West,194,12,0
+565,pre,36,Male,Mobile,Paid Ads,West,154,9,0
+566,post,54,Female,Mobile,Organic,North,366,13,0
+567,pre,21,Male,Mobile,Social Media,East,221,8,0
+568,pre,21,Female,Tablet,Social Media,East,759,2,0
+569,post,37,Female,Mobile,Paid Ads,North,243,13,0
+570,pre,27,Male,Mobile,Organic,South,603,11,0
+571,post,41,Male,Mobile,Social Media,West,357,1,0
+572,post,52,Female,Desktop,Social Media,North,410,1,0
+573,pre,43,Female,Desktop,Organic,North,702,12,0
+574,post,54,Male,Tablet,Social Media,East,607,6,1
+575,post,55,Female,Desktop,Organic,West,827,9,0
+576,post,38,Female,Mobile,Social Media,East,268,7,0
+577,pre,57,Female,Mobile,Organic,North,561,5,0
+578,post,56,Male,Desktop,Paid Ads,South,729,11,1
+579,pre,38,Female,Mobile,Social Media,West,111,2,0
+580,pre,27,Male,Mobile,Paid Ads,North,392,1,0
+581,pre,55,Female,Mobile,Social Media,North,534,2,0
+582,post,21,Male,Mobile,Social Media,South,231,1,0
+583,pre,37,Female,Mobile,Email,North,533,3,0
+584,pre,34,Male,Mobile,Organic,North,673,6,0
+585,post,24,Male,Desktop,Paid Ads,West,66,13,0
+586,pre,21,Male,Mobile,Paid Ads,West,673,8,0
+587,pre,46,Female,Mobile,Paid Ads,West,618,3,0
+588,pre,31,Female,Mobile,Organic,East,630,10,0
+589,pre,20,Female,Mobile,Email,South,431,9,0
+590,pre,41,Male,Mobile,Paid Ads,West,794,10,0
+591,pre,54,Female,Mobile,Organic,East,885,5,0
+592,post,33,Male,Mobile,Social Media,East,735,7,1
+593,pre,21,Female,Mobile,Paid Ads,South,205,8,0
+594,pre,41,Male,Mobile,Paid Ads,South,574,3,0
+595,post,51,Male,Mobile,Email,North,599,2,0
+596,pre,47,Male,Mobile,Paid Ads,East,496,2,0
+597,post,35,Female,Mobile,Paid Ads,West,230,5,0
+598,pre,36,Female,Mobile,Social Media,South,569,1,0
+599,pre,48,Female,Desktop,Organic,East,576,2,0
+600,pre,36,Male,Mobile,Organic,West,666,13,0
+601,pre,36,Male,Mobile,Email,East,423,9,0
+602,pre,39,Female,Mobile,Social Media,South,862,7,0
+603,pre,41,Female,Desktop,Organic,North,71,6,0
+604,pre,29,Female,Desktop,Social Media,East,626,9,0
+605,pre,47,Male,Desktop,Organic,West,422,7,0
+606,pre,55,Male,Desktop,Social Media,South,729,14,0
+607,pre,48,Male,Mobile,Email,North,652,11,0
+608,pre,53,Male,Desktop,Paid Ads,West,812,5,0
+609,post,36,Male,Mobile,Email,West,470,9,0
+610,post,53,Female,Mobile,Organic,West,866,6,0
+611,pre,47,Male,Mobile,Email,East,646,6,0
+612,post,50,Male,Mobile,Paid Ads,South,535,11,0
+613,post,35,Male,Tablet,Email,West,349,4,1
+614,pre,45,Male,Mobile,Organic,East,582,13,0
+615,post,28,Male,Desktop,Organic,South,244,12,0
+616,post,50,Female,Mobile,Email,South,100,1,0
+617,pre,34,Male,Mobile,Paid Ads,East,597,5,0
+618,pre,23,Male,Mobile,Email,East,265,11,0
+619,post,21,Male,Mobile,Paid Ads,West,310,9,0
+620,post,37,Female,Desktop,Social Media,South,646,13,0
+621,pre,44,Female,Mobile,Paid Ads,North,191,8,0
+622,pre,32,Female,Mobile,Social Media,East,220,8,0
+623,pre,23,Male,Desktop,Email,South,38,5,0
+624,pre,31,Female,Mobile,Paid Ads,South,89,12,0
+625,post,28,Male,Tablet,Social Media,West,846,9,0
+626,pre,56,Male,Mobile,Social Media,North,254,3,0
+627,pre,26,Female,Mobile,Social Media,West,848,3,0
+628,post,43,Male,Mobile,Organic,North,729,1,0
+629,pre,33,Male,Mobile,Email,North,611,9,0
+630,pre,22,Male,Mobile,Social Media,East,834,6,0
+631,post,27,Female,Desktop,Paid Ads,South,316,2,0
+632,post,20,Male,Desktop,Social Media,South,198,8,1
+633,post,30,Male,Desktop,Organic,South,91,12,0
+634,post,47,Female,Mobile,Email,North,378,9,0
+635,pre,23,Male,Mobile,Organic,South,471,9,0
+636,pre,34,Male,Mobile,Organic,East,43,2,0
+637,post,36,Female,Mobile,Organic,North,193,2,0
+638,pre,59,Male,Desktop,Paid Ads,North,449,13,0
+639,pre,52,Male,Mobile,Email,North,786,7,0
+640,pre,43,Male,Mobile,Email,North,876,11,0
+641,pre,22,Male,Mobile,Paid Ads,East,549,4,0
+642,pre,46,Male,Tablet,Email,South,695,13,0
+643,pre,54,Female,Mobile,Organic,East,577,1,0
+644,pre,37,Female,Mobile,Email,South,589,8,0
+645,pre,38,Female,Mobile,Paid Ads,East,626,2,0
+646,post,27,Female,Mobile,Organic,West,57,14,0
+647,post,22,Male,Mobile,Paid Ads,West,737,3,0
+648,post,53,Male,Mobile,Social Media,West,475,5,0
+649,post,23,Male,Desktop,Organic,West,237,14,0
+650,pre,43,Male,Mobile,Organic,North,499,3,0
+651,pre,21,Male,Desktop,Email,North,745,7,0
+652,post,56,Female,Tablet,Organic,East,848,7,1
+653,post,56,Female,Desktop,Paid Ads,East,133,14,0
+654,post,52,Male,Mobile,Email,West,771,2,1
+655,pre,18,Male,Mobile,Social Media,South,455,13,0
+656,pre,41,Male,Desktop,Paid Ads,West,130,13,0
+657,pre,53,Female,Desktop,Social Media,East,570,7,0
+658,pre,23,Male,Mobile,Social Media,West,668,11,0
+659,post,58,Male,Desktop,Social Media,East,879,6,0
+660,post,48,Male,Mobile,Organic,West,551,10,0
+661,pre,37,Female,Mobile,Paid Ads,South,135,9,0
+662,post,41,Male,Mobile,Paid Ads,West,708,13,0
+663,post,42,Female,Mobile,Organic,South,798,9,0
+664,pre,53,Female,Mobile,Email,South,836,2,0
+665,pre,38,Female,Desktop,Social Media,East,306,7,0
+666,pre,47,Female,Mobile,Paid Ads,South,94,5,0
+667,pre,41,Female,Mobile,Organic,North,812,13,0
+668,pre,59,Female,Mobile,Social Media,North,217,6,0
+669,pre,47,Male,Mobile,Email,North,346,1,0
+670,pre,39,Male,Mobile,Email,East,167,7,0
+671,pre,45,Male,Desktop,Social Media,North,372,6,0
+672,post,24,Female,Desktop,Email,East,134,4,0
+673,pre,52,Male,Desktop,Paid Ads,East,575,1,0
+674,post,45,Female,Desktop,Paid Ads,North,409,9,0
+675,pre,31,Female,Mobile,Paid Ads,South,139,4,0
+676,post,27,Female,Mobile,Email,West,574,2,0
+677,pre,33,Male,Mobile,Paid Ads,East,383,8,0
+678,pre,33,Female,Mobile,Organic,North,772,2,0
+679,post,48,Female,Tablet,Paid Ads,East,346,5,0
+680,post,59,Male,Mobile,Paid Ads,South,295,11,0
+681,post,42,Male,Mobile,Email,South,723,6,1
+682,pre,30,Female,Desktop,Paid Ads,North,881,11,0
+683,pre,23,Female,Tablet,Social Media,East,94,13,0
+684,post,26,Male,Desktop,Organic,West,362,8,0
+685,post,53,Male,Mobile,Email,West,542,11,0
+686,post,37,Male,Mobile,Organic,East,162,1,0
+687,post,35,Female,Mobile,Social Media,East,621,1,0
+688,pre,38,Male,Mobile,Email,East,812,12,0
+689,post,21,Male,Mobile,Email,North,782,4,0
+690,pre,50,Male,Mobile,Paid Ads,South,569,5,0
+691,pre,44,Female,Tablet,Organic,West,764,13,0
+692,pre,24,Male,Mobile,Social Media,North,564,13,0
+693,post,23,Male,Desktop,Social Media,East,525,9,0
+694,pre,32,Male,Desktop,Email,East,650,11,0
+695,pre,35,Male,Mobile,Paid Ads,South,648,14,0
+696,post,49,Male,Desktop,Email,East,686,7,0
+697,pre,28,Female,Mobile,Email,North,398,7,0
+698,post,37,Female,Mobile,Email,North,895,8,0
+699,pre,41,Female,Desktop,Email,South,680,5,1
+700,pre,32,Male,Mobile,Social Media,North,825,5,0
+701,post,24,Female,Tablet,Social Media,West,839,1,0
+702,pre,38,Female,Mobile,Email,North,128,14,0
+703,pre,59,Female,Mobile,Email,North,346,9,0
+704,pre,43,Male,Mobile,Paid Ads,North,152,6,0
+705,pre,31,Male,Mobile,Email,West,349,9,0
+706,post,54,Female,Mobile,Social Media,East,828,3,0
+707,pre,38,Female,Desktop,Organic,North,622,5,0
+708,post,35,Male,Desktop,Social Media,South,524,2,0
+709,pre,22,Male,Desktop,Paid Ads,West,486,10,0
+710,post,20,Female,Mobile,Social Media,South,551,5,0
+711,post,40,Male,Desktop,Organic,North,549,13,0
+712,post,43,Female,Desktop,Email,South,746,13,1
+713,pre,54,Male,Desktop,Organic,North,344,13,0
+714,pre,41,Female,Mobile,Email,West,738,14,0
+715,pre,36,Female,Desktop,Email,South,739,8,0
+716,post,42,Male,Desktop,Social Media,South,571,11,1
+717,post,38,Female,Mobile,Social Media,North,508,2,0
+718,post,29,Female,Desktop,Social Media,North,49,8,0
+719,pre,58,Female,Mobile,Paid Ads,East,589,4,0
+720,post,50,Male,Mobile,Social Media,North,159,10,0
+721,post,21,Male,Mobile,Paid Ads,North,322,10,1
+722,pre,59,Male,Mobile,Social Media,East,161,1,0
+723,pre,24,Female,Mobile,Email,North,385,13,0
+724,post,39,Male,Desktop,Paid Ads,North,83,5,1
+725,post,50,Female,Mobile,Organic,East,822,13,0
+726,post,34,Female,Desktop,Paid Ads,West,416,1,0
+727,pre,41,Male,Desktop,Paid Ads,West,294,7,0
+728,post,51,Male,Mobile,Organic,North,244,8,1
+729,pre,45,Female,Desktop,Paid Ads,North,489,3,0
+730,pre,58,Female,Tablet,Email,East,487,3,0
+731,pre,56,Male,Desktop,Social Media,East,831,7,0
+732,post,39,Male,Desktop,Organic,West,72,4,0
+733,post,34,Male,Tablet,Social Media,South,615,3,0
+734,post,51,Female,Desktop,Email,North,891,8,0
+735,pre,23,Female,Mobile,Organic,South,307,3,0
+736,post,23,Female,Desktop,Social Media,South,867,13,0
+737,pre,51,Female,Desktop,Social Media,East,783,14,0
+738,post,18,Female,Mobile,Email,North,159,7,0
+739,pre,27,Male,Mobile,Social Media,North,379,2,0
+740,pre,38,Male,Desktop,Email,East,735,11,0
+741,pre,22,Female,Mobile,Paid Ads,South,573,11,0
+742,pre,19,Female,Tablet,Email,East,135,1,0
+743,post,39,Male,Mobile,Paid Ads,West,745,12,0
+744,post,19,Male,Mobile,Organic,North,30,6,0
+745,pre,27,Male,Mobile,Social Media,West,786,8,0
+746,post,51,Male,Mobile,Email,East,613,1,0
+747,pre,33,Female,Desktop,Email,North,461,13,0
+748,post,56,Male,Tablet,Social Media,West,335,10,1
+749,post,39,Female,Desktop,Social Media,West,556,12,0
+750,post,29,Male,Mobile,Organic,South,82,9,0
+751,pre,41,Male,Mobile,Organic,North,549,3,0
+752,post,57,Male,Desktop,Email,West,359,3,1
+753,post,55,Female,Tablet,Organic,West,587,4,0
+754,pre,27,Female,Mobile,Paid Ads,South,354,11,0
+755,pre,52,Male,Mobile,Organic,West,143,1,0
+756,post,49,Female,Mobile,Organic,West,176,9,0
+757,post,24,Female,Desktop,Email,West,195,11,0
+758,post,38,Male,Desktop,Paid Ads,South,408,3,0
+759,post,37,Male,Mobile,Organic,West,168,13,0
+760,post,43,Female,Mobile,Paid Ads,West,658,10,0
+761,pre,21,Female,Desktop,Paid Ads,North,328,4,0
+762,pre,39,Female,Mobile,Paid Ads,North,305,1,0
+763,pre,32,Male,Mobile,Social Media,South,818,4,0
+764,post,57,Male,Mobile,Social Media,East,879,13,0
+765,pre,38,Female,Mobile,Social Media,North,854,1,0
+766,post,32,Male,Mobile,Social Media,South,207,5,0
+767,post,39,Male,Desktop,Email,West,871,5,0
+768,post,45,Female,Desktop,Organic,West,383,14,0
+769,pre,31,Female,Desktop,Social Media,South,183,11,0
+770,post,44,Male,Desktop,Email,West,230,7,1
+771,pre,58,Male,Mobile,Organic,West,144,14,0
+772,post,57,Female,Desktop,Social Media,East,700,8,0
+773,pre,45,Male,Mobile,Organic,West,583,4,0
+774,pre,43,Male,Desktop,Social Media,North,788,7,0
+775,post,19,Female,Tablet,Email,West,97,4,0
+776,pre,42,Female,Mobile,Paid Ads,South,474,3,0
+777,pre,20,Male,Mobile,Paid Ads,East,474,6,1
+778,post,25,Male,Mobile,Organic,West,355,4,0
+779,post,50,Male,Mobile,Email,South,875,14,1
+780,post,59,Female,Mobile,Paid Ads,North,737,3,0
+781,post,52,Male,Desktop,Social Media,West,631,9,0
+782,post,23,Male,Tablet,Paid Ads,East,652,5,0
+783,pre,56,Female,Mobile,Organic,West,388,13,0
+784,pre,40,Female,Mobile,Organic,South,174,14,0
+785,pre,42,Male,Mobile,Email,East,304,7,0
+786,post,36,Female,Desktop,Organic,West,538,12,0
+787,post,22,Female,Mobile,Paid Ads,North,208,14,1
+788,pre,28,Male,Mobile,Paid Ads,East,782,6,0
+789,pre,29,Female,Mobile,Paid Ads,North,867,10,0
+790,post,27,Female,Mobile,Paid Ads,South,860,5,1
+791,pre,25,Male,Mobile,Email,West,506,7,0
+792,post,41,Female,Desktop,Social Media,North,872,11,0
+793,post,45,Male,Mobile,Social Media,South,443,6,0
+794,post,58,Male,Desktop,Email,West,182,10,0
+795,pre,53,Female,Mobile,Organic,South,133,2,0
+796,post,54,Female,Desktop,Social Media,North,104,13,0
+797,post,38,Female,Desktop,Organic,South,157,13,0
+798,post,25,Male,Mobile,Social Media,East,740,13,0
+799,post,26,Female,Mobile,Organic,West,695,3,0
+800,post,32,Male,Mobile,Email,South,597,2,0
+801,post,57,Female,Desktop,Paid Ads,North,819,12,0
+802,pre,35,Female,Mobile,Organic,West,374,3,0
+803,post,59,Female,Tablet,Paid Ads,East,560,1,0
+804,post,37,Male,Mobile,Organic,West,188,8,0
+805,pre,23,Female,Desktop,Organic,East,567,6,0
+806,post,29,Female,Desktop,Organic,West,455,13,0
+807,post,19,Male,Desktop,Organic,South,710,2,1
+808,post,24,Male,Mobile,Organic,South,52,8,0
+809,pre,33,Female,Mobile,Paid Ads,North,76,6,0
+810,pre,20,Female,Desktop,Organic,East,554,7,0
+811,post,20,Female,Mobile,Paid Ads,North,758,11,0
+812,post,44,Male,Mobile,Email,South,863,1,0
+813,pre,57,Male,Mobile,Social Media,East,735,7,0
+814,post,55,Male,Mobile,Organic,North,173,3,0
+815,post,50,Male,Mobile,Social Media,North,614,11,1
+816,post,45,Female,Mobile,Paid Ads,North,697,12,0
+817,post,18,Male,Mobile,Email,North,618,8,0
+818,pre,25,Male,Desktop,Email,North,448,6,0
+819,pre,54,Male,Desktop,Email,East,710,4,0
+820,pre,49,Female,Desktop,Social Media,North,828,11,0
+821,post,54,Female,Tablet,Paid Ads,East,114,8,1
+822,pre,21,Male,Mobile,Organic,North,445,9,0
+823,pre,47,Male,Mobile,Organic,South,723,10,0
+824,pre,23,Female,Mobile,Paid Ads,South,511,2,0
+825,post,36,Female,Mobile,Social Media,North,485,6,1
+826,post,49,Female,Tablet,Organic,West,856,5,0
+827,pre,26,Female,Mobile,Paid Ads,South,326,5,0
+828,pre,29,Female,Mobile,Organic,East,141,10,0
+829,post,28,Female,Mobile,Email,North,259,11,0
+830,pre,33,Female,Mobile,Organic,East,125,3,0
+831,pre,18,Female,Desktop,Social Media,West,709,12,0
+832,pre,38,Male,Mobile,Paid Ads,North,407,8,0
+833,pre,47,Male,Tablet,Social Media,South,185,14,0
+834,pre,30,Male,Mobile,Paid Ads,East,450,8,0
+835,pre,51,Male,Mobile,Email,South,134,12,0
+836,pre,21,Male,Desktop,Paid Ads,South,734,5,0
+837,post,45,Male,Mobile,Organic,North,359,8,0
+838,pre,55,Female,Tablet,Organic,East,468,10,0
+839,post,48,Female,Tablet,Email,West,161,8,0
+840,post,44,Male,Desktop,Paid Ads,South,896,3,0
+841,pre,22,Male,Desktop,Email,North,411,2,0
+842,post,42,Female,Mobile,Organic,North,167,9,0
+843,pre,20,Female,Tablet,Social Media,West,872,2,0
+844,post,50,Female,Mobile,Email,North,299,9,0
+845,pre,21,Male,Desktop,Social Media,South,579,4,0
+846,pre,42,Female,Tablet,Social Media,North,425,12,0
+847,pre,37,Male,Tablet,Paid Ads,East,586,13,0
+848,post,51,Male,Desktop,Email,East,493,2,0
+849,post,43,Female,Mobile,Social Media,South,704,10,0
+850,post,22,Female,Tablet,Social Media,East,479,1,0
+851,pre,52,Male,Desktop,Paid Ads,West,360,4,0
+852,post,45,Female,Tablet,Paid Ads,North,282,9,0
+853,pre,46,Female,Desktop,Organic,South,710,12,0
+854,post,26,Male,Mobile,Social Media,West,314,9,0
+855,pre,55,Female,Mobile,Organic,North,303,4,0
+856,pre,23,Male,Mobile,Social Media,West,49,9,0
+857,pre,36,Male,Desktop,Organic,South,268,12,0
+858,pre,28,Female,Mobile,Paid Ads,South,299,6,0
+859,post,19,Male,Mobile,Email,West,447,1,0
+860,pre,26,Male,Mobile,Paid Ads,North,339,10,0
+861,post,38,Female,Desktop,Organic,East,60,13,0
+862,pre,41,Female,Mobile,Organic,East,855,14,0
+863,post,51,Female,Mobile,Email,West,133,6,0
+864,pre,39,Male,Mobile,Social Media,South,711,9,0
+865,pre,20,Male,Mobile,Organic,North,215,13,1
+866,post,29,Female,Mobile,Organic,North,157,2,0
+867,pre,45,Male,Mobile,Organic,South,239,6,0
+868,pre,47,Female,Mobile,Email,East,443,2,0
+869,post,43,Female,Tablet,Paid Ads,North,310,4,0
+870,post,38,Male,Desktop,Organic,West,282,8,0
+871,pre,45,Female,Mobile,Email,East,48,13,0
+872,pre,43,Male,Tablet,Organic,West,741,7,0
+873,post,50,Male,Mobile,Social Media,East,761,11,0
+874,pre,38,Female,Desktop,Email,South,165,12,0
+875,pre,52,Male,Desktop,Organic,West,252,13,1
+876,pre,51,Female,Mobile,Email,West,32,9,0
+877,post,58,Male,Mobile,Organic,South,265,7,1
+878,post,35,Male,Mobile,Paid Ads,West,883,1,1
+879,pre,28,Male,Mobile,Organic,East,494,2,0
+880,pre,40,Female,Desktop,Email,North,257,6,0
+881,pre,39,Male,Mobile,Social Media,North,683,7,0
+882,post,34,Female,Mobile,Social Media,South,528,3,0
+883,pre,22,Male,Mobile,Social Media,East,550,9,0
+884,pre,28,Male,Mobile,Organic,West,731,13,0
+885,post,47,Female,Mobile,Paid Ads,West,891,7,0
+886,pre,32,Female,Mobile,Organic,North,706,14,0
+887,post,44,Female,Desktop,Social Media,West,168,6,0
+888,pre,52,Female,Mobile,Email,North,305,13,0
+889,pre,50,Female,Mobile,Social Media,South,320,6,0
+890,pre,37,Male,Desktop,Email,West,82,1,0
+891,post,33,Male,Mobile,Paid Ads,East,716,13,0
+892,post,51,Female,Desktop,Email,West,139,5,0
+893,post,19,Male,Desktop,Organic,North,744,10,0
+894,pre,52,Male,Mobile,Organic,South,677,3,0
+895,post,57,Male,Mobile,Organic,North,33,7,0
+896,pre,45,Female,Mobile,Email,West,696,10,0
+897,pre,56,Male,Mobile,Organic,North,713,3,0
+898,post,23,Male,Mobile,Organic,North,899,5,0
+899,pre,26,Male,Mobile,Organic,South,76,7,0
+900,pre,37,Female,Mobile,Paid Ads,East,123,14,0
+901,pre,18,Male,Mobile,Email,West,589,3,0
+902,pre,25,Male,Desktop,Email,South,781,13,0
+903,pre,40,Female,Mobile,Social Media,East,888,13,0
+904,post,20,Female,Mobile,Email,North,242,10,0
+905,pre,21,Male,Mobile,Paid Ads,East,465,2,0
+906,post,42,Male,Desktop,Email,North,881,6,1
+907,post,55,Female,Mobile,Paid Ads,North,537,8,0
+908,pre,32,Female,Desktop,Paid Ads,South,865,4,0
+909,pre,38,Female,Mobile,Email,North,680,9,0
+910,pre,52,Female,Desktop,Social Media,South,234,12,0
+911,post,31,Female,Mobile,Organic,East,410,12,0
+912,pre,53,Female,Mobile,Organic,East,102,8,0
+913,post,29,Female,Mobile,Email,North,545,7,0
+914,pre,34,Male,Mobile,Email,South,105,14,0
+915,post,56,Female,Mobile,Paid Ads,North,870,7,0
+916,pre,26,Female,Mobile,Email,South,106,3,0
+917,pre,52,Male,Desktop,Paid Ads,South,845,14,0
+918,post,30,Female,Tablet,Social Media,South,797,6,0
+919,post,32,Female,Mobile,Email,East,439,13,0
+920,pre,35,Male,Mobile,Organic,South,643,13,1
+921,post,50,Female,Mobile,Organic,East,135,5,0
+922,pre,23,Male,Desktop,Email,South,874,1,0
+923,post,44,Male,Mobile,Paid Ads,East,580,11,0
+924,post,40,Male,Tablet,Organic,West,505,3,0
+925,pre,44,Male,Mobile,Paid Ads,East,855,13,0
+926,pre,51,Female,Mobile,Email,East,304,12,1
+927,pre,55,Male,Desktop,Email,North,117,1,0
+928,post,31,Male,Desktop,Organic,South,752,4,0
+929,post,53,Female,Mobile,Email,West,106,10,0
+930,pre,25,Male,Mobile,Social Media,North,106,3,0
+931,pre,52,Male,Tablet,Social Media,South,471,11,0
+932,post,36,Male,Mobile,Organic,West,569,4,0
+933,post,47,Male,Desktop,Social Media,West,274,9,1
+934,post,31,Female,Mobile,Paid Ads,West,607,3,0
+935,pre,37,Male,Desktop,Organic,South,807,12,0
+936,pre,42,Female,Desktop,Organic,West,411,6,0
+937,pre,57,Female,Mobile,Paid Ads,West,746,6,0
+938,post,41,Male,Desktop,Social Media,North,599,7,1
+939,pre,31,Male,Mobile,Social Media,East,742,9,0
+940,post,43,Male,Mobile,Social Media,South,766,12,0
+941,pre,55,Male,Mobile,Organic,East,171,7,0
+942,post,40,Female,Mobile,Organic,North,397,14,0
+943,post,39,Female,Desktop,Social Media,East,113,1,0
+944,post,36,Female,Mobile,Email,West,172,8,0
+945,pre,20,Male,Mobile,Social Media,West,381,5,0
+946,pre,59,Female,Mobile,Paid Ads,South,574,9,0
+947,pre,36,Male,Mobile,Organic,South,181,10,0
+948,post,26,Male,Mobile,Paid Ads,South,187,13,1
+949,post,45,Male,Desktop,Paid Ads,North,475,12,0
+950,post,37,Male,Tablet,Organic,South,682,5,0
+951,post,24,Male,Desktop,Email,North,792,5,0
+952,post,31,Female,Mobile,Social Media,West,332,12,0
+953,pre,26,Female,Mobile,Paid Ads,East,653,12,0
+954,post,36,Male,Mobile,Organic,West,685,14,0
+955,pre,31,Female,Mobile,Paid Ads,West,479,2,0
+956,pre,55,Male,Mobile,Social Media,West,750,12,0
+957,post,53,Male,Mobile,Email,South,253,11,0
+958,pre,57,Male,Mobile,Email,South,72,3,0
+959,pre,34,Female,Tablet,Email,South,293,10,0
+960,post,47,Male,Mobile,Organic,East,785,9,0
+961,pre,26,Male,Mobile,Organic,South,32,7,0
+962,post,50,Female,Mobile,Email,North,666,1,0
+963,pre,42,Female,Mobile,Social Media,West,297,3,0
+964,pre,31,Female,Desktop,Social Media,East,625,12,0
+965,pre,28,Male,Mobile,Organic,East,45,2,1
+966,pre,52,Male,Mobile,Email,East,363,1,0
+967,post,58,Female,Mobile,Social Media,East,493,9,0
+968,pre,31,Male,Mobile,Social Media,East,88,8,0
+969,post,47,Female,Mobile,Social Media,North,206,5,0
+970,pre,58,Female,Desktop,Organic,West,92,11,0
+971,post,21,Male,Desktop,Email,East,590,12,0
+972,post,21,Male,Desktop,Paid Ads,West,336,2,0
+973,post,45,Female,Mobile,Email,South,275,1,1
+974,pre,25,Female,Desktop,Email,East,318,7,0
+975,pre,19,Female,Mobile,Organic,East,827,13,0
+976,pre,58,Female,Mobile,Social Media,West,361,11,1
+977,post,39,Male,Desktop,Social Media,East,556,11,0
+978,pre,58,Female,Mobile,Organic,East,879,2,0
+979,pre,33,Female,Mobile,Organic,East,284,1,0
+980,post,46,Female,Desktop,Organic,North,633,2,0
+981,pre,47,Male,Mobile,Organic,North,539,7,0
+982,post,29,Male,Mobile,Organic,East,820,7,0
+983,pre,52,Female,Mobile,Paid Ads,North,747,10,0
+984,pre,28,Male,Desktop,Email,South,635,6,0
+985,post,38,Male,Tablet,Email,East,766,5,0
+986,pre,38,Male,Desktop,Email,South,842,3,0
+987,post,22,Female,Mobile,Social Media,West,859,14,0
+988,pre,37,Female,Mobile,Paid Ads,South,492,12,1
+989,pre,54,Male,Mobile,Email,West,228,3,0
+990,post,20,Female,Mobile,Social Media,East,300,11,0
+991,post,50,Female,Mobile,Paid Ads,West,775,13,0
+992,post,26,Male,Mobile,Paid Ads,West,587,12,0
+993,pre,26,Male,Mobile,Social Media,South,93,9,0
+994,post,21,Female,Tablet,Paid Ads,South,259,4,0
+995,pre,52,Male,Mobile,Social Media,South,278,9,1
+996,pre,34,Female,Mobile,Email,East,275,4,1
+997,post,51,Female,Mobile,Social Media,East,616,2,1
+998,pre,41,Male,Tablet,Paid Ads,South,186,4,0
+999,post,49,Female,Desktop,Email,East,764,6,0
+1000,pre,18,Female,Desktop,Email,East,731,6,0
+1001,pre,25,Male,Tablet,Organic,West,593,5,0
+1002,post,40,Male,Mobile,Organic,West,117,1,0
+1003,post,57,Male,Mobile,Paid Ads,South,342,3,1
+1004,post,29,Female,Mobile,Social Media,East,880,5,0
+1005,post,29,Male,Mobile,Social Media,West,95,6,0
+1006,post,32,Male,Mobile,Paid Ads,North,691,14,0
+1007,post,58,Male,Mobile,Email,East,49,1,1
+1008,post,36,Male,Tablet,Paid Ads,North,62,14,0
+1009,pre,43,Female,Tablet,Paid Ads,South,869,14,0
+1010,pre,46,Female,Desktop,Email,East,822,9,0
+1011,pre,39,Male,Desktop,Social Media,South,587,14,0
+1012,post,57,Female,Desktop,Paid Ads,South,102,3,0
+1013,post,38,Male,Mobile,Social Media,South,895,10,0
+1014,pre,55,Male,Mobile,Paid Ads,South,854,13,0
+1015,post,37,Female,Desktop,Email,South,372,3,0
+1016,post,46,Female,Desktop,Email,East,162,11,0
+1017,pre,21,Male,Mobile,Organic,North,84,2,0
+1018,post,24,Male,Tablet,Email,East,90,8,0
+1019,post,45,Female,Mobile,Organic,East,886,13,0
+1020,pre,45,Male,Mobile,Paid Ads,East,549,3,1
+1021,post,21,Female,Desktop,Social Media,West,301,6,0
+1022,pre,39,Male,Mobile,Email,West,275,2,0
+1023,post,29,Male,Mobile,Email,East,205,7,0
+1024,post,20,Female,Mobile,Email,North,657,13,0
+1025,post,39,Female,Desktop,Paid Ads,East,346,4,0
+1026,pre,19,Female,Mobile,Organic,South,812,9,0
+1027,post,41,Female,Desktop,Paid Ads,West,734,14,0
+1028,post,51,Female,Mobile,Social Media,West,691,10,0
+1029,pre,44,Female,Mobile,Paid Ads,East,160,9,0
+1030,post,58,Female,Tablet,Social Media,East,131,7,0
+1031,pre,18,Male,Mobile,Email,North,339,12,0
+1032,post,25,Male,Tablet,Social Media,North,811,8,0
+1033,pre,40,Male,Mobile,Social Media,South,321,3,0
+1034,pre,55,Female,Tablet,Organic,East,751,11,1
+1035,pre,23,Female,Mobile,Social Media,East,524,5,0
+1036,post,39,Female,Mobile,Social Media,East,390,2,0
+1037,pre,42,Male,Mobile,Paid Ads,West,367,10,0
+1038,post,35,Female,Mobile,Email,South,608,7,1
+1039,pre,34,Female,Desktop,Paid Ads,North,39,13,0
+1040,pre,29,Male,Mobile,Paid Ads,West,78,8,0
+1041,post,23,Female,Mobile,Email,West,516,9,0
+1042,post,43,Male,Mobile,Email,West,652,11,1
+1043,pre,44,Male,Mobile,Social Media,West,350,11,0
+1044,post,25,Female,Desktop,Social Media,South,760,7,0
+1045,post,36,Female,Mobile,Organic,East,598,10,0
+1046,post,59,Female,Desktop,Paid Ads,North,824,10,0
+1047,pre,18,Male,Desktop,Email,North,654,13,0
+1048,pre,46,Male,Desktop,Social Media,West,162,8,0
+1049,post,52,Male,Mobile,Email,West,612,12,0
+1050,pre,57,Female,Desktop,Social Media,South,112,9,0
+1051,post,31,Female,Tablet,Organic,West,86,6,0
+1052,post,52,Female,Desktop,Organic,North,405,12,0
+1053,post,37,Female,Mobile,Email,North,378,12,0
+1054,post,30,Male,Desktop,Organic,East,300,10,0
+1055,post,55,Male,Desktop,Email,East,512,2,0
+1056,pre,25,Male,Desktop,Social Media,North,140,2,0
+1057,post,37,Male,Mobile,Paid Ads,North,898,4,0
+1058,pre,50,Female,Mobile,Organic,South,105,9,0
+1059,pre,43,Female,Desktop,Social Media,South,187,7,0
+1060,post,56,Female,Mobile,Paid Ads,North,561,2,0
+1061,post,38,Male,Desktop,Paid Ads,West,672,8,0
+1062,post,59,Male,Mobile,Paid Ads,East,358,11,0
+1063,post,58,Female,Mobile,Social Media,North,151,7,0
+1064,pre,26,Female,Mobile,Social Media,West,70,9,0
+1065,pre,41,Male,Mobile,Email,North,196,8,0
+1066,post,54,Female,Tablet,Paid Ads,East,671,3,1
+1067,pre,58,Male,Desktop,Paid Ads,East,52,1,0
+1068,pre,34,Male,Desktop,Paid Ads,South,308,2,0
+1069,pre,41,Male,Mobile,Email,South,792,14,0
+1070,pre,38,Female,Desktop,Paid Ads,South,498,13,1
+1071,pre,56,Female,Desktop,Social Media,South,429,2,0
+1072,pre,58,Male,Mobile,Paid Ads,East,38,4,0
+1073,pre,56,Female,Mobile,Organic,West,42,6,0
+1074,pre,30,Male,Desktop,Social Media,West,848,4,0
+1075,post,28,Male,Desktop,Email,West,861,9,1
+1076,pre,36,Male,Tablet,Paid Ads,North,81,4,0
+1077,pre,28,Male,Mobile,Organic,South,238,6,0
+1078,post,30,Female,Desktop,Email,South,579,6,1
+1079,pre,18,Male,Mobile,Email,East,641,10,0
+1080,post,57,Male,Mobile,Social Media,East,734,11,0
+1081,post,36,Female,Mobile,Email,North,431,10,0
+1082,pre,29,Male,Mobile,Email,North,220,1,1
+1083,pre,25,Male,Mobile,Email,West,80,8,0
+1084,post,25,Female,Mobile,Email,East,422,12,0
+1085,post,29,Female,Desktop,Paid Ads,South,682,3,0
+1086,pre,50,Female,Desktop,Paid Ads,West,709,13,0
+1087,post,43,Male,Mobile,Paid Ads,South,852,6,0
+1088,pre,56,Female,Tablet,Paid Ads,West,650,3,0
+1089,post,45,Female,Mobile,Organic,South,748,11,1
+1090,pre,22,Male,Mobile,Paid Ads,North,329,2,0
+1091,post,25,Male,Desktop,Email,West,651,5,0
+1092,post,42,Male,Mobile,Paid Ads,South,225,14,0
+1093,post,44,Male,Mobile,Paid Ads,South,446,1,0
+1094,post,40,Male,Mobile,Social Media,East,693,9,0
+1095,pre,47,Female,Mobile,Email,West,449,11,1
+1096,pre,40,Female,Desktop,Paid Ads,South,784,7,0
+1097,pre,37,Female,Mobile,Paid Ads,East,669,3,0
+1098,pre,35,Male,Mobile,Paid Ads,South,646,4,0
+1099,post,35,Male,Mobile,Organic,West,551,13,0
+1100,pre,19,Male,Desktop,Paid Ads,North,385,6,0
+1101,pre,21,Female,Mobile,Social Media,West,177,3,0
+1102,post,47,Female,Desktop,Email,West,394,12,1
+1103,post,50,Male,Mobile,Email,South,393,7,1
+1104,post,53,Female,Mobile,Paid Ads,South,681,13,0
+1105,post,35,Male,Mobile,Paid Ads,West,731,6,1
+1106,pre,54,Female,Mobile,Paid Ads,East,431,9,0
+1107,pre,36,Female,Mobile,Email,East,635,12,0
+1108,post,45,Female,Mobile,Email,East,521,5,0
+1109,post,57,Male,Tablet,Organic,South,258,4,0
+1110,pre,37,Female,Mobile,Social Media,South,604,3,1
+1111,post,50,Female,Desktop,Organic,West,881,10,0
+1112,pre,29,Male,Mobile,Social Media,North,566,1,0
+1113,pre,32,Female,Mobile,Organic,South,297,3,0
+1114,post,58,Male,Mobile,Email,West,434,3,0
+1115,post,56,Male,Tablet,Organic,West,822,7,0
+1116,post,19,Male,Mobile,Social Media,North,40,7,0
+1117,pre,46,Male,Mobile,Paid Ads,East,349,13,0
+1118,post,58,Male,Mobile,Social Media,West,742,12,0
+1119,pre,27,Female,Mobile,Paid Ads,West,155,1,0
+1120,pre,19,Male,Mobile,Email,West,335,3,0
+1121,post,28,Male,Mobile,Social Media,East,731,13,0
+1122,post,30,Male,Mobile,Organic,East,540,8,0
+1123,post,27,Male,Mobile,Social Media,North,118,9,1
+1124,post,31,Female,Desktop,Paid Ads,South,384,7,0
+1125,post,35,Male,Mobile,Email,East,657,7,0
+1126,post,26,Female,Mobile,Organic,South,381,12,0
+1127,pre,56,Male,Mobile,Social Media,South,718,11,0
+1128,pre,45,Female,Desktop,Paid Ads,East,43,8,0
+1129,pre,20,Male,Mobile,Organic,West,286,6,0
+1130,pre,37,Male,Mobile,Email,North,238,11,0
+1131,post,23,Female,Mobile,Organic,South,310,3,0
+1132,pre,44,Male,Mobile,Email,West,472,1,0
+1133,pre,19,Female,Mobile,Organic,East,869,7,0
+1134,pre,46,Male,Desktop,Social Media,South,866,1,0
+1135,post,55,Female,Desktop,Paid Ads,South,418,1,0
+1136,pre,20,Male,Desktop,Social Media,South,646,9,0
+1137,post,33,Male,Mobile,Social Media,West,512,13,0
+1138,pre,47,Female,Mobile,Email,West,176,10,0
+1139,pre,57,Male,Mobile,Email,West,308,7,0
+1140,post,19,Male,Mobile,Email,South,550,13,0
+1141,post,34,Male,Mobile,Social Media,South,659,11,0
+1142,pre,58,Male,Desktop,Organic,North,635,13,0
+1143,post,29,Male,Mobile,Organic,North,463,4,0
+1144,post,52,Male,Mobile,Social Media,West,173,6,0
+1145,pre,18,Female,Mobile,Social Media,West,318,1,0
+1146,post,32,Female,Mobile,Paid Ads,East,415,7,0
+1147,post,43,Female,Mobile,Email,West,43,12,0
+1148,post,54,Male,Desktop,Email,North,286,6,0
+1149,post,38,Female,Mobile,Social Media,North,375,4,0
+1150,post,48,Male,Desktop,Social Media,North,727,7,0
+1151,post,42,Male,Desktop,Organic,South,374,3,0
+1152,post,40,Male,Desktop,Social Media,South,429,1,0
+1153,post,41,Male,Mobile,Organic,West,236,4,0
+1154,post,55,Female,Mobile,Social Media,East,887,3,0
+1155,post,45,Male,Mobile,Paid Ads,East,201,1,0
+1156,post,38,Female,Desktop,Paid Ads,East,493,2,0
+1157,pre,35,Male,Mobile,Organic,South,299,11,0
+1158,post,53,Female,Desktop,Email,North,250,5,0
+1159,post,52,Female,Mobile,Paid Ads,North,181,8,1
+1160,pre,26,Female,Mobile,Organic,South,652,1,0
+1161,post,55,Female,Mobile,Social Media,East,212,4,0
+1162,pre,47,Female,Mobile,Social Media,East,428,14,0
+1163,pre,51,Female,Mobile,Organic,West,880,4,0
+1164,post,49,Male,Desktop,Email,West,101,5,0
+1165,pre,20,Female,Desktop,Organic,East,447,7,0
+1166,post,20,Male,Desktop,Organic,South,312,13,0
+1167,post,45,Female,Desktop,Paid Ads,East,103,12,0
+1168,post,32,Male,Desktop,Organic,West,384,8,0
+1169,pre,58,Female,Mobile,Organic,East,756,6,0
+1170,pre,40,Female,Desktop,Social Media,South,526,1,0
+1171,post,57,Male,Mobile,Paid Ads,North,357,7,0
+1172,post,28,Female,Mobile,Social Media,South,564,3,1
+1173,post,49,Female,Desktop,Social Media,South,609,13,1
+1174,pre,53,Female,Mobile,Email,West,476,13,0
+1175,post,50,Male,Mobile,Email,South,402,13,0
+1176,post,41,Female,Mobile,Paid Ads,South,391,6,1
+1177,post,56,Male,Mobile,Paid Ads,West,122,8,0
+1178,pre,51,Female,Tablet,Email,West,350,7,0
+1179,post,45,Female,Mobile,Email,North,353,10,0
+1180,post,54,Male,Mobile,Email,East,413,6,0
+1181,post,24,Female,Mobile,Email,South,604,9,0
+1182,pre,21,Female,Mobile,Email,West,765,9,0
+1183,post,54,Male,Tablet,Social Media,North,766,1,0
+1184,post,18,Female,Mobile,Paid Ads,East,375,1,0
+1185,pre,18,Male,Mobile,Social Media,West,878,1,0
+1186,post,37,Male,Desktop,Social Media,East,132,8,0
+1187,post,36,Male,Tablet,Organic,East,244,12,0
+1188,pre,46,Female,Desktop,Social Media,South,221,13,0
+1189,pre,27,Male,Desktop,Email,South,701,14,0
+1190,post,35,Male,Mobile,Email,West,748,12,0
+1191,pre,45,Female,Mobile,Organic,East,810,14,0
+1192,post,52,Male,Mobile,Organic,West,223,10,0
+1193,pre,48,Female,Desktop,Organic,West,409,7,0
+1194,post,44,Female,Mobile,Organic,East,432,3,0
+1195,pre,28,Female,Mobile,Organic,West,693,13,0
+1196,post,55,Female,Mobile,Social Media,East,778,2,0
+1197,post,22,Male,Mobile,Organic,East,629,4,0
+1198,post,25,Male,Mobile,Social Media,East,40,3,0
+1199,post,51,Male,Tablet,Paid Ads,East,216,7,1
+1200,pre,29,Male,Mobile,Organic,North,755,10,0
+1201,post,55,Male,Desktop,Organic,East,44,8,0
+1202,pre,18,Female,Desktop,Social Media,South,807,6,0
+1203,pre,48,Male,Mobile,Paid Ads,South,326,3,1
+1204,pre,21,Male,Mobile,Social Media,South,440,6,0
+1205,pre,22,Male,Mobile,Social Media,East,614,2,0
+1206,post,47,Female,Mobile,Organic,South,81,12,0
+1207,post,41,Female,Desktop,Email,North,669,7,0
+1208,pre,20,Male,Mobile,Email,West,57,14,0
+1209,pre,28,Female,Mobile,Social Media,East,606,11,0
+1210,post,21,Male,Mobile,Organic,South,46,10,0
+1211,pre,43,Male,Tablet,Paid Ads,North,380,14,0
+1212,pre,44,Female,Desktop,Email,West,457,7,0
+1213,pre,44,Female,Desktop,Paid Ads,North,679,4,0
+1214,post,59,Male,Desktop,Email,South,860,13,0
+1215,post,23,Male,Mobile,Organic,North,258,8,1
+1216,pre,32,Female,Desktop,Social Media,West,795,4,0
+1217,pre,47,Male,Mobile,Paid Ads,South,239,7,0
+1218,post,59,Female,Desktop,Paid Ads,West,460,4,0
+1219,post,54,Male,Desktop,Social Media,North,323,13,0
+1220,pre,54,Female,Mobile,Paid Ads,East,772,12,0
+1221,post,59,Male,Desktop,Email,East,782,5,0
+1222,pre,54,Male,Tablet,Social Media,East,611,7,0
+1223,pre,52,Female,Mobile,Email,East,133,13,1
+1224,post,40,Male,Desktop,Email,West,233,14,0
+1225,pre,23,Male,Mobile,Organic,East,82,14,0
+1226,post,21,Female,Mobile,Email,West,404,13,0
+1227,pre,35,Male,Mobile,Organic,South,871,10,0
+1228,pre,26,Male,Mobile,Paid Ads,East,83,3,0
+1229,post,46,Male,Tablet,Paid Ads,West,305,10,0
+1230,pre,30,Female,Desktop,Organic,East,364,5,0
+1231,post,34,Female,Desktop,Email,East,60,11,0
+1232,pre,49,Female,Mobile,Social Media,East,164,14,0
+1233,pre,39,Male,Tablet,Social Media,West,87,3,0
+1234,pre,21,Male,Mobile,Organic,North,134,5,0
+1235,post,22,Male,Desktop,Paid Ads,East,295,14,0
+1236,pre,54,Male,Mobile,Paid Ads,East,551,3,0
+1237,post,58,Female,Mobile,Social Media,South,525,11,0
+1238,pre,30,Male,Desktop,Organic,North,282,10,0
+1239,post,51,Male,Mobile,Social Media,West,324,11,0
+1240,pre,39,Male,Mobile,Email,South,697,7,0
+1241,post,40,Female,Mobile,Email,East,187,13,0
+1242,post,20,Male,Mobile,Organic,South,578,1,0
+1243,post,59,Male,Mobile,Organic,South,660,9,0
+1244,post,51,Male,Mobile,Email,East,96,9,0
+1245,post,49,Male,Mobile,Paid Ads,North,783,5,0
+1246,post,38,Male,Mobile,Organic,North,328,9,0
+1247,pre,38,Female,Desktop,Email,South,492,10,0
+1248,pre,28,Male,Mobile,Email,East,754,13,0
+1249,post,56,Male,Tablet,Paid Ads,West,849,6,0
+1250,post,21,Male,Desktop,Paid Ads,South,130,5,0
+1251,post,18,Male,Mobile,Paid Ads,West,85,13,1
+1252,pre,45,Male,Desktop,Paid Ads,South,361,3,0
+1253,pre,41,Male,Desktop,Social Media,South,865,11,0
+1254,pre,52,Male,Tablet,Paid Ads,East,780,11,0
+1255,post,30,Male,Mobile,Social Media,East,422,8,0
+1256,pre,51,Male,Mobile,Organic,West,772,4,0
+1257,pre,28,Male,Desktop,Email,West,410,10,0
+1258,pre,53,Female,Desktop,Social Media,North,121,13,0
+1259,pre,34,Female,Desktop,Organic,East,820,13,0
+1260,post,52,Female,Mobile,Organic,South,476,3,0
+1261,pre,35,Female,Desktop,Social Media,South,138,13,0
+1262,post,57,Male,Tablet,Organic,North,346,6,0
+1263,pre,39,Female,Mobile,Organic,East,197,8,0
+1264,pre,41,Female,Mobile,Social Media,South,841,13,1
+1265,pre,36,Male,Mobile,Organic,North,464,9,0
+1266,pre,54,Female,Desktop,Paid Ads,North,471,14,0
+1267,pre,56,Female,Desktop,Paid Ads,South,247,6,0
+1268,pre,38,Male,Desktop,Email,South,251,5,1
+1269,post,25,Male,Mobile,Organic,West,702,12,1
+1270,pre,45,Male,Mobile,Email,East,557,11,0
+1271,post,22,Female,Mobile,Paid Ads,West,307,2,0
+1272,post,34,Female,Mobile,Paid Ads,North,598,2,0
+1273,post,54,Male,Desktop,Paid Ads,South,603,9,0
+1274,pre,53,Male,Tablet,Organic,West,495,2,0
+1275,pre,36,Female,Tablet,Organic,North,868,2,0
+1276,pre,44,Male,Tablet,Paid Ads,East,783,3,0
+1277,pre,51,Female,Mobile,Email,South,631,3,0
+1278,post,28,Male,Mobile,Email,West,613,4,0
+1279,pre,29,Male,Desktop,Social Media,East,867,7,0
+1280,pre,38,Female,Tablet,Paid Ads,West,59,9,0
+1281,post,28,Male,Mobile,Email,North,388,2,0
+1282,post,56,Male,Mobile,Paid Ads,East,317,4,0
+1283,post,45,Male,Mobile,Email,West,115,9,0
+1284,pre,22,Female,Desktop,Social Media,East,263,14,0
+1285,pre,34,Male,Mobile,Social Media,North,776,2,0
+1286,post,37,Male,Mobile,Paid Ads,East,342,10,0
+1287,pre,58,Male,Mobile,Email,West,394,11,0
+1288,pre,29,Male,Mobile,Organic,North,806,13,0
+1289,pre,23,Male,Desktop,Social Media,South,828,1,0
+1290,pre,34,Male,Mobile,Paid Ads,West,868,10,0
+1291,pre,36,Female,Desktop,Paid Ads,West,298,8,0
+1292,pre,43,Female,Desktop,Email,North,727,9,0
+1293,post,49,Male,Desktop,Paid Ads,North,160,7,0
+1294,post,23,Female,Mobile,Social Media,South,832,8,0
+1295,post,53,Female,Tablet,Paid Ads,West,818,4,0
+1296,pre,55,Male,Mobile,Paid Ads,North,861,4,0
+1297,pre,28,Female,Tablet,Organic,South,380,13,0
+1298,pre,50,Female,Tablet,Organic,South,209,2,1
+1299,post,41,Female,Mobile,Social Media,North,831,8,0
+1300,post,40,Female,Mobile,Email,West,509,11,0
+1301,pre,32,Female,Mobile,Organic,East,192,2,0
+1302,post,44,Female,Mobile,Email,East,812,9,1
+1303,pre,28,Female,Mobile,Social Media,South,125,14,0
+1304,post,34,Female,Mobile,Organic,East,803,4,0
+1305,post,31,Male,Mobile,Email,East,539,1,0
+1306,post,44,Male,Mobile,Organic,North,394,13,0
+1307,post,35,Female,Mobile,Social Media,South,382,4,0
+1308,post,45,Female,Mobile,Social Media,West,829,3,0
+1309,pre,21,Male,Mobile,Organic,South,465,12,0
+1310,post,24,Female,Mobile,Email,North,112,6,0
+1311,pre,52,Female,Mobile,Paid Ads,East,254,7,0
+1312,post,26,Male,Mobile,Paid Ads,West,441,8,0
+1313,post,25,Male,Desktop,Organic,South,764,2,0
+1314,post,34,Male,Mobile,Email,East,147,6,0
+1315,pre,34,Female,Mobile,Paid Ads,South,511,6,0
+1316,post,50,Female,Mobile,Social Media,West,221,10,0
+1317,post,49,Male,Desktop,Email,South,620,12,0
+1318,post,25,Male,Desktop,Paid Ads,South,619,5,0
+1319,pre,36,Female,Desktop,Email,South,688,10,0
+1320,pre,55,Male,Desktop,Organic,East,136,10,0
+1321,pre,20,Female,Mobile,Email,West,411,7,0
+1322,pre,22,Female,Mobile,Paid Ads,West,812,3,0
+1323,post,30,Male,Mobile,Organic,East,419,4,0
+1324,pre,48,Male,Tablet,Email,East,273,10,1
+1325,post,33,Female,Desktop,Social Media,East,614,13,0
+1326,pre,49,Male,Desktop,Paid Ads,North,898,9,0
+1327,pre,39,Male,Mobile,Organic,South,497,4,0
+1328,post,46,Male,Desktop,Email,South,895,3,0
+1329,post,39,Male,Mobile,Social Media,West,567,14,0
+1330,pre,20,Female,Mobile,Paid Ads,South,239,2,0
+1331,post,27,Female,Mobile,Social Media,North,633,5,0
+1332,post,59,Female,Mobile,Email,East,666,4,0
+1333,pre,38,Female,Mobile,Email,West,102,13,0
+1334,post,33,Male,Desktop,Organic,West,664,13,0
+1335,post,29,Male,Mobile,Social Media,South,338,8,1
+1336,post,19,Female,Mobile,Organic,West,725,7,0
+1337,pre,58,Female,Mobile,Paid Ads,East,728,6,0
+1338,post,41,Male,Mobile,Organic,West,739,11,0
+1339,pre,52,Female,Desktop,Paid Ads,East,619,12,0
+1340,pre,47,Female,Desktop,Email,North,889,2,0
+1341,pre,47,Male,Desktop,Email,North,215,3,0
+1342,pre,52,Female,Desktop,Social Media,East,885,10,0
+1343,post,36,Male,Desktop,Paid Ads,South,282,9,1
+1344,post,25,Male,Mobile,Email,West,42,13,1
+1345,post,43,Female,Desktop,Social Media,South,328,9,1
+1346,pre,57,Male,Mobile,Social Media,West,105,5,0
+1347,pre,24,Female,Mobile,Organic,North,80,14,0
+1348,pre,47,Male,Mobile,Social Media,North,816,3,0
+1349,post,24,Female,Desktop,Email,North,178,2,0
+1350,pre,20,Female,Desktop,Organic,West,760,8,0
+1351,post,18,Female,Mobile,Paid Ads,North,151,6,0
+1352,post,53,Male,Desktop,Paid Ads,North,240,10,1
+1353,pre,42,Male,Tablet,Email,North,309,11,0
+1354,post,54,Female,Mobile,Email,North,567,12,1
+1355,pre,18,Male,Mobile,Organic,South,714,7,0
+1356,post,32,Female,Desktop,Organic,North,185,1,0
+1357,post,54,Female,Mobile,Email,North,267,1,0
+1358,pre,30,Male,Desktop,Email,South,405,10,0
+1359,pre,57,Female,Mobile,Paid Ads,South,111,2,0
+1360,post,25,Male,Mobile,Paid Ads,West,521,10,0
+1361,post,22,Female,Desktop,Paid Ads,East,385,3,0
+1362,pre,26,Male,Desktop,Email,North,302,12,0
+1363,post,18,Female,Desktop,Social Media,North,609,1,0
+1364,post,53,Female,Desktop,Email,North,73,14,0
+1365,post,52,Male,Desktop,Email,West,602,5,0
+1366,pre,19,Female,Desktop,Paid Ads,North,152,3,0
+1367,post,57,Female,Mobile,Email,East,378,1,0
+1368,post,40,Male,Mobile,Organic,South,737,8,0
+1369,pre,26,Female,Mobile,Email,West,359,12,0
+1370,pre,51,Male,Desktop,Email,South,438,11,0
+1371,post,31,Female,Mobile,Email,North,352,6,0
+1372,pre,21,Male,Mobile,Email,North,140,9,0
+1373,post,47,Female,Mobile,Social Media,North,799,3,0
+1374,pre,48,Female,Desktop,Email,East,118,9,0
+1375,pre,55,Female,Desktop,Organic,East,462,9,0
+1376,post,28,Male,Mobile,Organic,West,739,12,1
+1377,pre,52,Male,Desktop,Email,South,823,13,0
+1378,post,25,Male,Mobile,Paid Ads,North,741,12,0
+1379,pre,20,Male,Mobile,Social Media,North,128,1,0
+1380,post,31,Female,Desktop,Email,North,568,3,0
+1381,pre,30,Female,Mobile,Email,North,630,6,1
+1382,pre,49,Male,Tablet,Email,East,175,8,0
+1383,post,51,Male,Mobile,Paid Ads,South,723,4,0
+1384,pre,36,Male,Mobile,Paid Ads,South,286,5,0
+1385,post,55,Female,Tablet,Paid Ads,West,218,9,0
+1386,pre,33,Male,Mobile,Social Media,East,269,6,0
+1387,post,19,Male,Tablet,Organic,North,532,12,0
+1388,pre,57,Female,Tablet,Social Media,South,737,7,0
+1389,post,34,Female,Mobile,Paid Ads,South,838,7,0
+1390,pre,51,Male,Mobile,Organic,East,706,4,0
+1391,pre,59,Female,Mobile,Organic,West,848,4,0
+1392,pre,33,Male,Mobile,Paid Ads,West,300,4,0
+1393,pre,55,Female,Mobile,Paid Ads,North,549,14,0
+1394,post,19,Male,Mobile,Social Media,West,579,11,0
+1395,pre,19,Male,Mobile,Paid Ads,South,143,5,0
+1396,post,43,Male,Mobile,Organic,West,368,5,0
+1397,pre,30,Male,Tablet,Email,North,597,8,0
+1398,pre,48,Female,Desktop,Paid Ads,South,388,9,0
+1399,post,51,Female,Desktop,Paid Ads,West,679,2,0
+1400,post,56,Female,Mobile,Social Media,West,643,11,1
+1401,pre,20,Female,Desktop,Social Media,East,363,7,0
+1402,pre,25,Male,Mobile,Paid Ads,North,718,1,0
+1403,pre,40,Male,Desktop,Organic,West,198,1,0
+1404,post,31,Female,Tablet,Organic,East,368,4,1
+1405,post,44,Female,Mobile,Email,South,827,10,0
+1406,pre,46,Female,Desktop,Paid Ads,East,290,7,1
+1407,post,56,Female,Desktop,Social Media,East,764,2,1
+1408,post,56,Female,Tablet,Organic,West,228,11,0
+1409,post,18,Male,Desktop,Email,West,240,2,1
+1410,post,34,Male,Mobile,Paid Ads,West,316,1,0
+1411,pre,58,Male,Mobile,Organic,East,721,10,0
+1412,pre,47,Female,Mobile,Paid Ads,South,791,2,0
+1413,pre,30,Female,Desktop,Paid Ads,North,772,13,0
+1414,pre,38,Female,Mobile,Organic,East,501,7,0
+1415,post,36,Female,Desktop,Organic,West,511,9,0
+1416,post,36,Male,Mobile,Organic,North,52,6,0
+1417,pre,42,Male,Mobile,Paid Ads,South,589,10,0
+1418,pre,39,Female,Mobile,Paid Ads,North,138,2,0
+1419,pre,48,Male,Desktop,Email,West,325,12,0
+1420,post,34,Male,Mobile,Social Media,East,35,10,0
+1421,pre,40,Female,Mobile,Paid Ads,East,579,10,0
+1422,post,49,Female,Mobile,Social Media,West,710,13,0
+1423,pre,27,Female,Mobile,Organic,East,897,9,0
+1424,pre,27,Female,Mobile,Paid Ads,West,824,7,0
+1425,post,53,Female,Desktop,Email,East,232,11,0
+1426,post,25,Female,Mobile,Email,East,354,1,0
+1427,pre,37,Male,Mobile,Social Media,East,854,12,1
+1428,post,49,Male,Desktop,Organic,South,814,9,0
+1429,post,31,Female,Tablet,Social Media,South,273,2,1
+1430,post,45,Male,Desktop,Organic,West,356,4,0
+1431,pre,41,Female,Mobile,Email,South,76,9,0
+1432,post,32,Female,Desktop,Social Media,West,790,4,0
+1433,pre,39,Female,Tablet,Email,North,620,3,0
+1434,post,47,Female,Desktop,Email,North,651,1,0
+1435,pre,21,Male,Mobile,Organic,South,42,7,0
+1436,pre,30,Female,Mobile,Social Media,North,409,6,0
+1437,pre,40,Male,Desktop,Social Media,North,394,10,0
+1438,post,25,Female,Mobile,Email,East,631,4,0
+1439,pre,35,Female,Mobile,Email,East,371,6,0
+1440,post,29,Female,Desktop,Organic,West,889,6,0
+1441,post,48,Male,Desktop,Paid Ads,North,821,13,0
+1442,pre,31,Female,Mobile,Paid Ads,West,250,4,0
+1443,post,51,Female,Desktop,Email,West,102,14,0
+1444,pre,35,Female,Mobile,Paid Ads,North,775,13,0
+1445,post,51,Male,Mobile,Paid Ads,South,801,6,1
+1446,pre,28,Male,Desktop,Paid Ads,North,654,10,0
+1447,post,58,Male,Mobile,Paid Ads,East,75,11,0
+1448,post,29,Female,Mobile,Email,North,533,8,0
+1449,post,32,Male,Tablet,Paid Ads,South,303,13,0
+1450,post,48,Female,Mobile,Paid Ads,West,584,3,0
+1451,pre,46,Male,Mobile,Organic,West,237,4,0
+1452,post,43,Male,Tablet,Email,East,890,10,0
+1453,post,35,Female,Desktop,Social Media,East,644,13,0
+1454,post,49,Male,Desktop,Social Media,East,153,12,0
+1455,pre,39,Female,Desktop,Organic,West,39,14,0
+1456,post,55,Female,Mobile,Organic,East,358,1,0
+1457,post,34,Male,Desktop,Email,North,216,4,0
+1458,post,40,Female,Mobile,Social Media,West,572,11,0
+1459,pre,41,Female,Desktop,Paid Ads,South,697,10,0
+1460,post,25,Male,Mobile,Organic,West,89,10,0
+1461,pre,58,Male,Desktop,Social Media,North,790,12,0
+1462,post,23,Female,Mobile,Email,North,811,14,1
+1463,pre,22,Male,Mobile,Paid Ads,East,471,9,0
+1464,post,46,Female,Desktop,Email,West,246,8,0
+1465,post,45,Female,Desktop,Organic,West,31,11,0
+1466,pre,28,Male,Desktop,Social Media,West,565,4,0
+1467,post,18,Male,Mobile,Social Media,South,747,12,0
+1468,pre,36,Male,Mobile,Social Media,East,861,7,0
+1469,post,26,Male,Desktop,Social Media,North,740,10,0
+1470,post,44,Female,Desktop,Paid Ads,North,385,3,0
+1471,post,51,Female,Desktop,Paid Ads,East,655,9,0
+1472,post,21,Male,Tablet,Email,North,821,10,0
+1473,post,53,Male,Desktop,Paid Ads,North,696,4,0
+1474,pre,35,Female,Mobile,Organic,East,194,2,0
+1475,pre,32,Female,Desktop,Organic,North,763,10,0
+1476,post,30,Female,Tablet,Social Media,West,120,5,0
+1477,post,36,Female,Desktop,Organic,South,196,2,0
+1478,post,23,Male,Desktop,Email,East,236,14,0
+1479,post,29,Female,Desktop,Paid Ads,South,311,10,0
+1480,pre,54,Female,Mobile,Paid Ads,North,94,6,0
+1481,post,34,Male,Mobile,Paid Ads,North,545,11,0
+1482,pre,40,Female,Mobile,Organic,West,186,10,0
+1483,post,43,Female,Tablet,Paid Ads,East,790,1,0
+1484,pre,46,Male,Desktop,Social Media,North,798,14,0
+1485,pre,50,Male,Mobile,Social Media,East,776,6,0
+1486,pre,44,Male,Tablet,Social Media,East,335,4,0
+1487,pre,42,Female,Mobile,Organic,East,424,3,0
+1488,post,27,Female,Mobile,Paid Ads,East,103,2,0
+1489,pre,40,Male,Desktop,Organic,East,216,7,0
+1490,pre,38,Male,Desktop,Paid Ads,South,603,9,0
+1491,pre,38,Female,Mobile,Email,West,366,12,0
+1492,pre,30,Male,Mobile,Email,East,705,3,1
+1493,pre,54,Male,Mobile,Organic,South,597,6,0
+1494,pre,50,Male,Mobile,Social Media,North,652,9,0
+1495,post,41,Female,Mobile,Organic,East,759,2,1
+1496,post,28,Female,Mobile,Social Media,North,269,7,0
+1497,post,34,Female,Mobile,Paid Ads,East,562,5,0
+1498,pre,21,Female,Mobile,Social Media,South,170,5,0
+1499,pre,42,Female,Mobile,Social Media,South,294,11,0
+1500,post,47,Female,Mobile,Paid Ads,South,168,7,0
